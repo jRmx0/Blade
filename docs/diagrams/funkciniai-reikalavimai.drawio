@@ -382,6 +382,12 @@
             <mxPoint x="1595.8700000000001" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WtpEblf-qw02XdHW-FUt-105" value="Testavimo Metodų" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="-614" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WtpEblf-qw02XdHW-FUt-106" value="Statistikos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="-540" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
