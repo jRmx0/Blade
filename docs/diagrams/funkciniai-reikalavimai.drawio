@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WtpEblf-qw02XdHW-FUt-104" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Blade funkciniai reikalavimai" vertex="1">
-          <mxGeometry height="1820" width="1001" x="500" y="-800" as="geometry" />
+          <mxGeometry height="1820" width="1480" x="500" y="-800" as="geometry" />
         </mxCell>
         <mxCell id="WtpEblf-qw02XdHW-FUt-19" parent="WtpEblf-qw02XdHW-FUt-104" style="ellipse;whiteSpace=wrap;html=1;" value="Sukurti naują aplinką" vertex="1">
           <mxGeometry height="50" width="100" x="380" y="750.62" as="geometry" />
         </mxCell>
         <mxCell id="WtpEblf-qw02XdHW-FUt-21" parent="WtpEblf-qw02XdHW-FUt-104" style="ellipse;whiteSpace=wrap;html=1;" value="Vykdyti ZPKP algoritmą" vertex="1">
-          <mxGeometry height="50" width="100" x="380" y="260" as="geometry" />
+          <mxGeometry height="50" width="100" x="380" y="305" as="geometry" />
         </mxCell>
         <mxCell id="WtpEblf-qw02XdHW-FUt-22" parent="WtpEblf-qw02XdHW-FUt-104" style="ellipse;whiteSpace=wrap;html=1;" value="Redaguoti aplinkos ribas" vertex="1">
           <mxGeometry height="50" width="100" x="380" y="810.62" as="geometry" />
@@ -20,16 +20,16 @@
           <mxGeometry height="50" width="100" x="380" y="200" as="geometry" />
         </mxCell>
         <mxCell id="WtpEblf-qw02XdHW-FUt-34" parent="WtpEblf-qw02XdHW-FUt-104" style="ellipse;whiteSpace=wrap;html=1;" value="Pasirinkti ZPKP algoritmą" vertex="1">
-          <mxGeometry height="50" width="100" x="380" y="140" as="geometry" />
+          <mxGeometry height="50" width="100" x="380" y="130" as="geometry" />
         </mxCell>
         <mxCell id="WtpEblf-qw02XdHW-FUt-37" parent="WtpEblf-qw02XdHW-FUt-104" style="ellipse;whiteSpace=wrap;html=1;" value="Nustatyti kelio plotį" vertex="1">
-          <mxGeometry height="40" width="120" x="620" y="115" as="geometry" />
+          <mxGeometry height="40" width="120" x="620" y="180" as="geometry" />
         </mxCell>
         <mxCell id="WtpEblf-qw02XdHW-FUt-38" parent="WtpEblf-qw02XdHW-FUt-104" style="ellipse;whiteSpace=wrap;html=1;" value="Nustatyti kelio persidengimą" vertex="1">
-          <mxGeometry height="40" width="120" x="620" y="175" as="geometry" />
+          <mxGeometry height="40" width="120" x="620" y="230" as="geometry" />
         </mxCell>
         <mxCell id="WtpEblf-qw02XdHW-FUt-51" parent="WtpEblf-qw02XdHW-FUt-104" style="ellipse;whiteSpace=wrap;html=1;" value="Valdyti aplinką" vertex="1">
-          <mxGeometry height="50" width="100" x="107.89" y="1170" as="geometry" />
+          <mxGeometry height="60" width="100" x="107.89" y="1170" as="geometry" />
         </mxCell>
         <mxCell id="WtpEblf-qw02XdHW-FUt-56" edge="1" parent="WtpEblf-qw02XdHW-FUt-104" source="WtpEblf-qw02XdHW-FUt-19" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="WtpEblf-qw02XdHW-FUt-51" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
@@ -43,8 +43,8 @@
             <mxPoint x="213.38" y="825.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WtpEblf-qw02XdHW-FUt-59" parent="WtpEblf-qw02XdHW-FUt-104" style="ellipse;whiteSpace=wrap;html=1;" value="Valdyti ZPKP algoritmus" vertex="1">
-          <mxGeometry height="60" width="120" x="107.89000000000004" y="225" as="geometry" />
+        <mxCell id="WtpEblf-qw02XdHW-FUt-59" parent="WtpEblf-qw02XdHW-FUt-104" style="ellipse;whiteSpace=wrap;html=1;" value="Valdyti ZPKP" vertex="1">
+          <mxGeometry height="60" width="100" x="107.89000000000004" y="225" as="geometry" />
         </mxCell>
         <mxCell id="WtpEblf-qw02XdHW-FUt-62" edge="1" parent="WtpEblf-qw02XdHW-FUt-104" source="WtpEblf-qw02XdHW-FUt-34" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="WtpEblf-qw02XdHW-FUt-59" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
@@ -238,6 +238,60 @@
             <mxPoint x="370" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WtpEblf-qw02XdHW-FUt-40" parent="WtpEblf-qw02XdHW-FUt-104" style="ellipse;whiteSpace=wrap;html=1;" value="Peržiūrėti ZPKP algoritmo rezultatus" vertex="1">
+          <mxGeometry height="40" width="120" x="620" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="t46CGE3qp_MFZXh6KJfx-26" parent="WtpEblf-qw02XdHW-FUt-104" style="ellipse;whiteSpace=wrap;html=1;" value="Valdyti ZPKP testavimą" vertex="1">
+          <mxGeometry height="50" width="100" x="380" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="t46CGE3qp_MFZXh6KJfx-27" parent="WtpEblf-qw02XdHW-FUt-104" style="ellipse;whiteSpace=wrap;html=1;" value="Kurti testavimo scenarijus" vertex="1">
+          <mxGeometry height="40" width="120" x="620" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="t46CGE3qp_MFZXh6KJfx-28" parent="WtpEblf-qw02XdHW-FUt-104" style="ellipse;whiteSpace=wrap;html=1;" value="Peržiūrėti testavimo rezultatus" vertex="1">
+          <mxGeometry height="40" width="120" x="620" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="t46CGE3qp_MFZXh6KJfx-29" parent="WtpEblf-qw02XdHW-FUt-104" style="ellipse;whiteSpace=wrap;html=1;" value="Vykdyti testavimo scenarijus" vertex="1">
+          <mxGeometry height="40" width="120" x="620" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="t46CGE3qp_MFZXh6KJfx-30" edge="1" parent="WtpEblf-qw02XdHW-FUt-104" source="WtpEblf-qw02XdHW-FUt-21" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="WtpEblf-qw02XdHW-FUt-40" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="674" y="324" as="sourcePoint" />
+            <mxPoint x="530" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t46CGE3qp_MFZXh6KJfx-31" edge="1" parent="WtpEblf-qw02XdHW-FUt-104" source="t46CGE3qp_MFZXh6KJfx-29" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="t46CGE3qp_MFZXh6KJfx-28" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="730" y="580" as="sourcePoint" />
+            <mxPoint x="870" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t46CGE3qp_MFZXh6KJfx-32" parent="WtpEblf-qw02XdHW-FUt-104" style="ellipse;whiteSpace=wrap;html=1;" value="Eksportuoti rezultatus" vertex="1">
+          <mxGeometry height="30" width="120" x="870" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="t46CGE3qp_MFZXh6KJfx-33" edge="1" parent="WtpEblf-qw02XdHW-FUt-104" source="t46CGE3qp_MFZXh6KJfx-32" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="t46CGE3qp_MFZXh6KJfx-28" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1264" y="514" as="sourcePoint" />
+            <mxPoint x="1120" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t46CGE3qp_MFZXh6KJfx-34" edge="1" parent="WtpEblf-qw02XdHW-FUt-104" source="t46CGE3qp_MFZXh6KJfx-27" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="t46CGE3qp_MFZXh6KJfx-26" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="724" y="499" as="sourcePoint" />
+            <mxPoint x="580" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t46CGE3qp_MFZXh6KJfx-35" edge="1" parent="WtpEblf-qw02XdHW-FUt-104" source="t46CGE3qp_MFZXh6KJfx-29" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="t46CGE3qp_MFZXh6KJfx-26" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="614" y="489" as="sourcePoint" />
+            <mxPoint x="470" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t46CGE3qp_MFZXh6KJfx-36" edge="1" parent="WtpEblf-qw02XdHW-FUt-104" source="t46CGE3qp_MFZXh6KJfx-28" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="t46CGE3qp_MFZXh6KJfx-26" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="674" y="519" as="sourcePoint" />
+            <mxPoint x="530" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WtpEblf-qw02XdHW-FUt-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Naudotojas" vertex="1">
           <mxGeometry height="60" width="30" x="370" y="-400" as="geometry" />
         </mxCell>
@@ -252,15 +306,6 @@
             <mxPoint x="420" y="197" as="sourcePoint" />
             <mxPoint x="529" y="55" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WtpEblf-qw02XdHW-FUt-105" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Testavimo Metodų" vertex="1">
-          <mxGeometry height="30" width="60" x="1430" y="-614" as="geometry" />
-        </mxCell>
-        <mxCell id="WtpEblf-qw02XdHW-FUt-106" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Statistikos" vertex="1">
-          <mxGeometry height="30" width="60" x="1430" y="-540" as="geometry" />
-        </mxCell>
-        <mxCell id="WtpEblf-qw02XdHW-FUt-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Valdyti ZPKP algoritmo rezultatų atvaizdavimą" vertex="1">
-          <mxGeometry height="64.38" width="128.76" x="1420" y="-230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
