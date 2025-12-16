@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="ZWdTrBStCpWvoV6iyAa_">
-    <mxGraphModel dx="1397" dy="2363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="790" dy="1844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -324,22 +324,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t46CGE3qp_MFZXh6KJfx-40" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Blade funkciniai reikalavimai" vertex="1">
-          <mxGeometry height="590" width="270" x="1870" y="-600" as="geometry" />
+          <mxGeometry height="430" width="270" x="1870" y="-600" as="geometry" />
         </mxCell>
         <mxCell id="t46CGE3qp_MFZXh6KJfx-48" parent="t46CGE3qp_MFZXh6KJfx-40" style="ellipse;whiteSpace=wrap;html=1;" value="Valdyti aplinką" vertex="1">
-          <mxGeometry height="60" width="100" x="85" y="176.0000000000001" as="geometry" />
+          <mxGeometry height="60" width="100" x="85" y="60.000000000000114" as="geometry" />
         </mxCell>
         <mxCell id="t46CGE3qp_MFZXh6KJfx-51" parent="t46CGE3qp_MFZXh6KJfx-40" style="ellipse;whiteSpace=wrap;html=1;" value="Valdyti ZPKP &lt;font style=&quot;color: rgb(204, 204, 0);&quot;&gt;algoritmus&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="85.00000000000004" y="70" as="geometry" />
+          <mxGeometry height="60" width="100" x="85.00000000000006" y="280" as="geometry" />
         </mxCell>
         <mxCell id="fOAwK9_kN5dwtCgonhQW-1" parent="t46CGE3qp_MFZXh6KJfx-40" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Valdyti kliūtis" vertex="1">
-          <mxGeometry height="50" width="100" x="85" y="300" as="geometry" />
+          <mxGeometry height="50" width="100" x="85" y="210" as="geometry" />
         </mxCell>
         <mxCell id="fOAwK9_kN5dwtCgonhQW-2" parent="t46CGE3qp_MFZXh6KJfx-40" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Valdyti aplinkos peržiūrą" vertex="1">
-          <mxGeometry height="50" width="100" x="85" y="390" as="geometry" />
+          <mxGeometry height="50" width="100" x="85" y="140" as="geometry" />
         </mxCell>
         <mxCell id="fOAwK9_kN5dwtCgonhQW-3" parent="t46CGE3qp_MFZXh6KJfx-40" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Valdyti ZPKP testavimą" vertex="1">
-          <mxGeometry height="50" width="100" x="85" y="470" as="geometry" />
+          <mxGeometry height="50" width="100" x="85" y="360" as="geometry" />
         </mxCell>
         <mxCell id="t46CGE3qp_MFZXh6KJfx-108" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Naudotojas" vertex="1">
           <mxGeometry height="60" width="30" x="1780" y="-480" as="geometry" />
@@ -356,7 +356,7 @@
             <mxPoint x="2077" y="-510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t46CGE3qp_MFZXh6KJfx-113" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Funkcinis reikalavimas „Valdyti ZPKP“" vertex="1">
+        <mxCell id="t46CGE3qp_MFZXh6KJfx-113" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Funkcinis reikalavimas „Valdyti ZPKP algoritmus“" vertex="1">
           <mxGeometry height="490" width="520" x="2360" y="-1030" as="geometry" />
         </mxCell>
         <mxCell id="t46CGE3qp_MFZXh6KJfx-115" parent="t46CGE3qp_MFZXh6KJfx-113" style="ellipse;whiteSpace=wrap;html=1;" value="Vykdyti ZPKP algoritmą" vertex="1">
@@ -443,7 +443,7 @@
         <mxCell id="t46CGE3qp_MFZXh6KJfx-221" parent="t46CGE3qp_MFZXh6KJfx-186" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Nustatyti aplinkos būseną" vertex="1">
           <mxGeometry height="40" width="120" x="392" y="274.3800000000001" as="geometry" />
         </mxCell>
-        <mxCell id="t46CGE3qp_MFZXh6KJfx-222" parent="t46CGE3qp_MFZXh6KJfx-186" style="ellipse;whiteSpace=wrap;html=1;" value="Keisti aplinkos formato parametrus" vertex="1">
+        <mxCell id="t46CGE3qp_MFZXh6KJfx-222" parent="t46CGE3qp_MFZXh6KJfx-186" style="ellipse;whiteSpace=wrap;html=1;" value="Keisti aplinkos&amp;nbsp; parametrus" vertex="1">
           <mxGeometry height="50" width="100" x="130" y="294.69000000000005" as="geometry" />
         </mxCell>
         <mxCell id="t46CGE3qp_MFZXh6KJfx-223" parent="t46CGE3qp_MFZXh6KJfx-186" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Nustatyti aplinkos tipą" vertex="1">
@@ -530,7 +530,7 @@
         <mxCell id="t46CGE3qp_MFZXh6KJfx-266" parent="t46CGE3qp_MFZXh6KJfx-284" style="ellipse;whiteSpace=wrap;html=1;" value="Panaikinti kliūtį" vertex="1">
           <mxGeometry height="40" width="120" x="115" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="t46CGE3qp_MFZXh6KJfx-267" parent="t46CGE3qp_MFZXh6KJfx-284" style="ellipse;whiteSpace=wrap;html=1;" value="Nustatyti kliūties būseną" vertex="1">
+        <mxCell id="t46CGE3qp_MFZXh6KJfx-267" parent="t46CGE3qp_MFZXh6KJfx-284" style="ellipse;whiteSpace=wrap;html=1;" value="Keisti kliūties parametrus" vertex="1">
           <mxGeometry height="40" width="120" x="115" y="210" as="geometry" />
         </mxCell>
         <mxCell id="t46CGE3qp_MFZXh6KJfx-268" parent="t46CGE3qp_MFZXh6KJfx-284" style="ellipse;whiteSpace=wrap;html=1;" value="Pridėti kliūtį" vertex="1">
@@ -542,10 +542,10 @@
         <mxCell id="t46CGE3qp_MFZXh6KJfx-276" parent="t46CGE3qp_MFZXh6KJfx-285" style="ellipse;whiteSpace=wrap;html=1;" value="Atstatyti aplinkos pradinį vaizdą" vertex="1">
           <mxGeometry height="40" width="120" x="120" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="t46CGE3qp_MFZXh6KJfx-278" parent="t46CGE3qp_MFZXh6KJfx-285" style="ellipse;whiteSpace=wrap;html=1;" value="Perjungti pagalbinį tinklelį" vertex="1">
+        <mxCell id="t46CGE3qp_MFZXh6KJfx-278" parent="t46CGE3qp_MFZXh6KJfx-285" style="ellipse;whiteSpace=wrap;html=1;" value="Valdyti pagalbinį tinklelį" vertex="1">
           <mxGeometry height="40" width="120" x="120" y="110.61999999999989" as="geometry" />
         </mxCell>
-        <mxCell id="t46CGE3qp_MFZXh6KJfx-280" parent="t46CGE3qp_MFZXh6KJfx-285" style="ellipse;whiteSpace=wrap;html=1;" value="Keisti aplinkos vaizdo mąstelį" vertex="1">
+        <mxCell id="t46CGE3qp_MFZXh6KJfx-280" parent="t46CGE3qp_MFZXh6KJfx-285" style="ellipse;whiteSpace=wrap;html=1;" value="Keisti aplinkos vaizdo mastelį" vertex="1">
           <mxGeometry height="40" width="120" x="120" y="159.0000000000001" as="geometry" />
         </mxCell>
         <mxCell id="t46CGE3qp_MFZXh6KJfx-282" parent="t46CGE3qp_MFZXh6KJfx-285" style="ellipse;whiteSpace=wrap;html=1;" value="Naršyti tarp aplinkos" vertex="1">
