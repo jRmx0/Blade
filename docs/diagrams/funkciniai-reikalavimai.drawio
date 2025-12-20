@@ -741,7 +741,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pb8jhJoY9vh95lelq_rj-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Valdyti kliūtis" vertex="1">
-          <mxGeometry height="50" width="100" x="620.0000000000001" y="1559.38" as="geometry" />
+          <mxGeometry height="50" width="100" x="645.0000000000001" y="1570" as="geometry" />
         </mxCell>
         <mxCell id="Pb8jhJoY9vh95lelq_rj-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Valdyti aplinkos peržiūrą" vertex="1">
           <mxGeometry height="50" width="100" x="620.0000000000001" y="1690" as="geometry" />
