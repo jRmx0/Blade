@@ -1434,7 +1434,7 @@
           <mxGeometry height="35" width="53" x="98.5" y="347.5" as="geometry" />
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-314" parent="_MyUuUs7dsR4KSonzSJy-279" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Eksportuoti rezultatus?" vertex="1">
-          <mxGeometry height="30" width="60" x="18" y="350" as="geometry" />
+          <mxGeometry height="30" width="60" x="28" y="350" as="geometry" />
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-324" parent="_MyUuUs7dsR4KSonzSJy-279" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="110" y="420" as="geometry" />
@@ -1499,7 +1499,7 @@
         <mxCell id="_MyUuUs7dsR4KSonzSJy-321" edge="1" parent="_MyUuUs7dsR4KSonzSJy-278" source="_MyUuUs7dsR4KSonzSJy-312" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;" target="_MyUuUs7dsR4KSonzSJy-306">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="145" y="302" />
+              <mxPoint x="125" y="302" />
             </Array>
           </mxGeometry>
         </mxCell>
