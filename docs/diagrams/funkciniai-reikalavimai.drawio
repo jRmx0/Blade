@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="ZWdTrBStCpWvoV6iyAa_">
-    <mxGraphModel dx="983" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4074" dy="3389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1097,10 +1097,10 @@
           <mxGeometry height="580" width="400" x="290" as="geometry" />
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-145" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" value="Keisti ZPKP algoritmo parametrus" vertex="1">
-          <mxGeometry height="290" width="550" x="3760" y="2570" as="geometry" />
+          <mxGeometry height="290" width="510" x="3760" y="2570" as="geometry" />
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-147" parent="_MyUuUs7dsR4KSonzSJy-145" style="swimlane;startSize=20;horizontal=0;html=1;" value="Naudotojas" vertex="1">
-          <mxGeometry height="140" width="530" x="20" as="geometry" />
+          <mxGeometry height="140" width="490" x="20" as="geometry" />
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-139" edge="1" parent="_MyUuUs7dsR4KSonzSJy-147" source="_MyUuUs7dsR4KSonzSJy-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="_MyUuUs7dsR4KSonzSJy-127">
           <mxGeometry relative="1" as="geometry" />
@@ -1139,7 +1139,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-148" parent="_MyUuUs7dsR4KSonzSJy-145" style="swimlane;startSize=20;horizontal=0;html=1;" value="Sistema" vertex="1">
-          <mxGeometry height="150" width="530" x="20" y="140" as="geometry" />
+          <mxGeometry height="150" width="490" x="20" y="140" as="geometry" />
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-151" edge="1" parent="_MyUuUs7dsR4KSonzSJy-148" source="_MyUuUs7dsR4KSonzSJy-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_MyUuUs7dsR4KSonzSJy-131">
           <mxGeometry relative="1" as="geometry" />
@@ -1698,7 +1698,7 @@
             <mxPoint x="1925" y="2880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_MyUuUs7dsR4KSonzSJy-403" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Vykdyti ZPKP" vertex="1">
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-403" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Vykdyti ZPKP" vertex="1">
           <mxGeometry height="50" width="70" x="3900" y="3400" as="geometry" />
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-404" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Peržiūrėti ZPKP&amp;nbsp; rezultatus" vertex="1">
