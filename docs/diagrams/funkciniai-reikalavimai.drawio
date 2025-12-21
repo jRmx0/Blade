@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="ZWdTrBStCpWvoV6iyAa_">
-    <mxGraphModel dx="3896" dy="2351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="14361" dy="7869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3149,13 +3149,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_MyUuUs7dsR4KSonzSJy-1186" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Sukurti naują aplinką" vertex="1">
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-1186" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Sukurti naują aplinką" vertex="1">
           <mxGeometry height="50" width="100" x="2340" y="7821.25" as="geometry" />
         </mxCell>
-        <mxCell id="_MyUuUs7dsR4KSonzSJy-1188" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Nustatyti aplinkos tipą" vertex="1">
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-1188" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Nustatyti aplinkos tipą" vertex="1">
           <mxGeometry height="40" width="120" x="2440.87" y="8100" as="geometry" />
         </mxCell>
-        <mxCell id="_MyUuUs7dsR4KSonzSJy-1189" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="Nustatyti aplinkos formatą" vertex="1">
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-1189" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0;" value="Nustatyti aplinkos formatą" vertex="1">
           <mxGeometry height="40" width="120" x="2520" y="7987.5" as="geometry" />
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1190" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-1189" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-1192" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
@@ -3197,7 +3197,7 @@
             <mxPoint x="2251" y="8007.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_MyUuUs7dsR4KSonzSJy-1211" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Redaguoti aplinkos pavadinimą" vertex="1">
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-1211" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Redaguoti aplinkos pavadinimą" vertex="1">
           <mxGeometry height="50" width="100" x="2520" y="7882.5" as="geometry" />
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1212" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-1194" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-1211" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
