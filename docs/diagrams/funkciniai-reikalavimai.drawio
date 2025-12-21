@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="ZWdTrBStCpWvoV6iyAa_">
-    <mxGraphModel dx="3311" dy="2043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3215,6 +3215,28 @@
             <mxPoint x="2600" y="7849" as="sourcePoint" />
             <mxPoint x="2675" y="7800" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-1240" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Redaguoti aplinkos pavadinimą" vertex="1">
+          <mxGeometry height="590" width="500" x="3460" y="7782.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-1241" parent="_MyUuUs7dsR4KSonzSJy-1240" style="swimlane;startSize=20;html=1;" value="Naudotojas" vertex="1">
+          <mxGeometry height="570" width="250" y="20" as="geometry">
+            <mxRectangle height="580" width="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-1243" parent="_MyUuUs7dsR4KSonzSJy-1241" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="110" y="38.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-1244" parent="_MyUuUs7dsR4KSonzSJy-1241" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Spaudžia aplinkos pavadinimo redagavimo mygtuką" vertex="1">
+          <mxGeometry height="30" width="200" x="26.179999999999836" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-1242" parent="_MyUuUs7dsR4KSonzSJy-1240" style="swimlane;startSize=20;html=1;" value="Sistema" vertex="1">
+          <mxGeometry height="570" width="250" x="250" y="20" as="geometry">
+            <mxRectangle height="580" width="40" x="290" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-1245" parent="_MyUuUs7dsR4KSonzSJy-1242" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Atidaromas aplinkos pavadinimo redagavimo&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="200" x="25" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
