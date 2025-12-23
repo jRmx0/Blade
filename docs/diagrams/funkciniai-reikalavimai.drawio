@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Page-1" id="ZWdTrBStCpWvoV6iyAa_">
-    <mxGraphModel dx="3997" dy="2582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2869" dy="1902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3029,7 +3029,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1183" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Sukurti naują aplinką" vertex="1">
-          <mxGeometry height="590" width="520" x="2880" y="7782.5" as="geometry" />
+          <mxGeometry height="590" width="520" x="3460" y="7782.5" as="geometry" />
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1184" parent="_MyUuUs7dsR4KSonzSJy-1183" style="swimlane;startSize=20;html=1;" value="Naudotojas" vertex="1">
           <mxGeometry height="570" width="250" y="20" as="geometry">
@@ -3213,7 +3213,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1240" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Redaguoti aplinkos pavadinimą" vertex="1">
-          <mxGeometry height="500" width="520" x="3460" y="7782.5" as="geometry" />
+          <mxGeometry height="500" width="520" x="4040" y="7782.5" as="geometry" />
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1241" parent="_MyUuUs7dsR4KSonzSJy-1240" style="swimlane;startSize=20;html=1;" value="Naudotojas" vertex="1">
           <mxGeometry height="480" width="250" y="20" as="geometry">
@@ -3295,7 +3295,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1269" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Nustatyti aplinkos tipą" vertex="1">
-          <mxGeometry height="560" width="520" x="4050" y="7782.5" as="geometry" />
+          <mxGeometry height="560" width="520" x="4630" y="7782.5" as="geometry" />
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1321" edge="1" parent="_MyUuUs7dsR4KSonzSJy-1269" source="_MyUuUs7dsR4KSonzSJy-1301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_MyUuUs7dsR4KSonzSJy-1302">
           <mxGeometry relative="1" as="geometry" />
@@ -3400,7 +3400,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1344" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Nustatyti aplinkos formatą" vertex="1">
-          <mxGeometry height="680" width="520" x="4670" y="7782.5" as="geometry" />
+          <mxGeometry height="680" width="520" x="5250" y="7782.5" as="geometry" />
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1345" edge="1" parent="_MyUuUs7dsR4KSonzSJy-1344" source="_MyUuUs7dsR4KSonzSJy-1351" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_MyUuUs7dsR4KSonzSJy-1359">
           <mxGeometry relative="1" as="geometry" />
@@ -3517,7 +3517,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1380" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Konvertuoti aplinką" vertex="1">
-          <mxGeometry height="510" width="470" x="5270" y="7782.5" as="geometry" />
+          <mxGeometry height="510" width="470" x="5850" y="7782.5" as="geometry" />
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1381" parent="_MyUuUs7dsR4KSonzSJy-1380" style="swimlane;startSize=20;html=1;" value="Naudotojas" vertex="1">
           <mxGeometry height="490" width="200" y="20" as="geometry">
