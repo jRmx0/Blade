@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Page-1" id="ZWdTrBStCpWvoV6iyAa_">
-    <mxGraphModel dx="3021" dy="1993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3997" dy="2582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4057,10 +4057,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-145" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Redaguoti leidimą keisti zonos ir kliūčių tipą" vertex="1">
-          <mxGeometry height="960" width="600" x="5250" y="7782.5" as="geometry" />
+          <mxGeometry height="920" width="600" x="5250" y="7782.5" as="geometry" />
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-146" parent="vWwnnvwMX039ijo3DkyB-145" style="swimlane;startSize=20;html=1;" value="Naudotojas" vertex="1">
-          <mxGeometry height="940" width="350" y="20" as="geometry">
+          <mxGeometry height="900" width="350" y="20" as="geometry">
             <mxRectangle height="580" width="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4080,10 +4080,10 @@
           <mxGeometry height="30" width="200" x="139.9999999999999" y="177.5" as="geometry" />
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-176" parent="vWwnnvwMX039ijo3DkyB-146" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Spaudžia žymėjimo mygtuką „Leisti keisti zonos ir kliūčių tipą&quot;" vertex="1">
-          <mxGeometry height="30" width="200" x="50" y="657.5" as="geometry" />
+          <mxGeometry height="30" width="200" x="60" y="617.5" as="geometry" />
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-147" parent="vWwnnvwMX039ijo3DkyB-145" style="swimlane;startSize=20;html=1;" value="Sistema" vertex="1">
-          <mxGeometry height="940" width="250" x="350" y="20" as="geometry">
+          <mxGeometry height="900" width="250" x="350" y="20" as="geometry">
             <mxRectangle height="580" width="40" x="290" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4113,16 +4113,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-155" parent="vWwnnvwMX039ijo3DkyB-147" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" value="" vertex="1">
-          <mxGeometry height="35" width="53" x="88.5" y="575" as="geometry" />
+          <mxGeometry height="35" width="53" x="88.5" y="525" as="geometry" />
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-156" parent="vWwnnvwMX039ijo3DkyB-147" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Leidžiama keisti zonos ir kliūčių tipą?" vertex="1">
-          <mxGeometry height="30" width="80" x="75" y="527.5" as="geometry" />
+          <mxGeometry height="30" width="80" x="75" y="487.5" as="geometry" />
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-160" parent="vWwnnvwMX039ijo3DkyB-147" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="200" y="80" as="geometry" />
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-165" parent="vWwnnvwMX039ijo3DkyB-147" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="195.47" y="577.5" as="geometry" />
+          <mxGeometry height="30" width="30" x="195.47" y="527.5" as="geometry" />
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-168" parent="vWwnnvwMX039ijo3DkyB-147" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Nustatomas zonos ir kliūčių tipas pagal aplinkos tipą" vertex="1">
           <mxGeometry height="30" width="200" x="15" y="177.5" as="geometry" />
@@ -4130,14 +4130,11 @@
         <mxCell id="vWwnnvwMX039ijo3DkyB-170" parent="vWwnnvwMX039ijo3DkyB-147" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Vykdomas funkcinis reikalavimas „Įrašyti aplinkos duomenis“" vertex="1">
           <mxGeometry height="32" width="210" x="10" y="237.5" as="geometry" />
         </mxCell>
-        <mxCell id="vWwnnvwMX039ijo3DkyB-171" parent="vWwnnvwMX039ijo3DkyB-147" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Nustatyti zonos ir kliūčių tipą pagal aplinkos tipą" vertex="1">
-          <mxGeometry height="30" width="200" x="15" y="657.5" as="geometry" />
-        </mxCell>
-        <mxCell id="vWwnnvwMX039ijo3DkyB-172" parent="vWwnnvwMX039ijo3DkyB-147" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Paslėpti zonos ir kliūčių keitimo mygtukus" vertex="1">
-          <mxGeometry height="30" width="200" x="15" y="717.5" as="geometry" />
+        <mxCell id="vWwnnvwMX039ijo3DkyB-171" parent="vWwnnvwMX039ijo3DkyB-147" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Nustatomas zonos ir kliūčių tipas pagal aplinkos tipą" vertex="1">
+          <mxGeometry height="30" width="200" x="15" y="617.5" as="geometry" />
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-173" parent="vWwnnvwMX039ijo3DkyB-147" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Vykdomas funkcinis reikalavimas „Įrašyti aplinkos duomenis“" vertex="1">
-          <mxGeometry height="32" width="210" x="10" y="777.5" as="geometry" />
+          <mxGeometry height="32" width="210" x="10" y="677.5" as="geometry" />
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-192" edge="1" parent="vWwnnvwMX039ijo3DkyB-147" source="vWwnnvwMX039ijo3DkyB-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vWwnnvwMX039ijo3DkyB-191">
           <mxGeometry relative="1" as="geometry" />
@@ -4149,9 +4146,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-179" parent="vWwnnvwMX039ijo3DkyB-147" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Pašalinama varnelė prie mygtuko „Leisti keisti zonos ir kliūčių tipą&quot;" vertex="1">
-          <mxGeometry height="32" width="210" x="10" y="837.5" as="geometry" />
+          <mxGeometry height="32" width="210" x="10" y="797.5" as="geometry" />
         </mxCell>
-        <mxCell id="vWwnnvwMX039ijo3DkyB-169" parent="vWwnnvwMX039ijo3DkyB-147" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Atvaizduoti zonos ir kliūčių keitimo mygtukus" vertex="1">
+        <mxCell id="vWwnnvwMX039ijo3DkyB-169" parent="vWwnnvwMX039ijo3DkyB-147" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Atvaizduojami zonos ir kliūčių tipo keitimo mygtukai" vertex="1">
           <mxGeometry height="30" width="200" x="15" y="297.5" as="geometry" />
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-186" edge="1" parent="vWwnnvwMX039ijo3DkyB-147" source="vWwnnvwMX039ijo3DkyB-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-16;entryPerimeter=0;" target="vWwnnvwMX039ijo3DkyB-170">
@@ -4166,17 +4163,26 @@
         <mxCell id="vWwnnvwMX039ijo3DkyB-191" parent="vWwnnvwMX039ijo3DkyB-147" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="100" y="417.5" as="geometry" />
         </mxCell>
-        <mxCell id="vWwnnvwMX039ijo3DkyB-194" edge="1" parent="vWwnnvwMX039ijo3DkyB-147" source="vWwnnvwMX039ijo3DkyB-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="vWwnnvwMX039ijo3DkyB-172">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vWwnnvwMX039ijo3DkyB-194" edge="1" parent="vWwnnvwMX039ijo3DkyB-147" source="vWwnnvwMX039ijo3DkyB-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-16;entryPerimeter=0;" target="vWwnnvwMX039ijo3DkyB-173">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="667.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="vWwnnvwMX039ijo3DkyB-195" edge="1" parent="vWwnnvwMX039ijo3DkyB-147" source="vWwnnvwMX039ijo3DkyB-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-16;entryPerimeter=0;" target="vWwnnvwMX039ijo3DkyB-173">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vWwnnvwMX039ijo3DkyB-196" edge="1" parent="vWwnnvwMX039ijo3DkyB-147" source="vWwnnvwMX039ijo3DkyB-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-16;entryPerimeter=0;" target="vWwnnvwMX039ijo3DkyB-179">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vWwnnvwMX039ijo3DkyB-196" edge="1" parent="vWwnnvwMX039ijo3DkyB-147" source="vWwnnvwMX039ijo3DkyB-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="vWwnnvwMX039ijo3DkyB-172">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="727.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-197" parent="vWwnnvwMX039ijo3DkyB-147" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="100" y="897.5" as="geometry" />
+          <mxGeometry height="30" width="30" x="100" y="857.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vWwnnvwMX039ijo3DkyB-172" parent="vWwnnvwMX039ijo3DkyB-147" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Paslepiami zonos ir kliūčių tipo keitimo mygtukai" vertex="1">
+          <mxGeometry height="30" width="200" x="15" y="737.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vWwnnvwMX039ijo3DkyB-195" edge="1" parent="vWwnnvwMX039ijo3DkyB-147" source="vWwnnvwMX039ijo3DkyB-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-16;entryPerimeter=0;" target="vWwnnvwMX039ijo3DkyB-179">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="787.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-177" edge="1" parent="vWwnnvwMX039ijo3DkyB-145" source="vWwnnvwMX039ijo3DkyB-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="vWwnnvwMX039ijo3DkyB-176">
           <mxGeometry relative="1" as="geometry" />
