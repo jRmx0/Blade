@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Page-1" id="ZWdTrBStCpWvoV6iyAa_">
-    <mxGraphModel dx="2526" dy="1753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2623" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2319,22 +2319,22 @@
         <mxCell id="_MyUuUs7dsR4KSonzSJy-872" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Konfigūruoti ZPKP testavimą" vertex="1">
           <mxGeometry height="52.5" width="98.95" x="2191.0499999999997" y="6044" as="geometry" />
         </mxCell>
-        <mxCell id="_MyUuUs7dsR4KSonzSJy-875" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-872" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-878" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/font&gt;">
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-875" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-878" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-872" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/font&gt;">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="2477" y="5964" as="sourcePoint" />
-            <mxPoint x="2457" y="5894" as="targetPoint" />
+            <mxPoint x="2457" y="5894" as="sourcePoint" />
+            <mxPoint x="2477" y="5964" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_MyUuUs7dsR4KSonzSJy-876" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-872" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-879" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/font&gt;">
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-876" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-879" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-872" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/font&gt;">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="2487" y="6094" as="sourcePoint" />
-            <mxPoint x="2387" y="6034" as="targetPoint" />
+            <mxPoint x="2387" y="6034" as="sourcePoint" />
+            <mxPoint x="2487" y="6094" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_MyUuUs7dsR4KSonzSJy-877" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-872" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-880" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/font&gt;">
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-877" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-880" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-872" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/font&gt;">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="2487" y="6094" as="sourcePoint" />
-            <mxPoint x="2457" y="5984" as="targetPoint" />
+            <mxPoint x="2457" y="5984" as="sourcePoint" />
+            <mxPoint x="2487" y="6094" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-878" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kurti ZPKP testavimo scenarijus" vertex="1">
@@ -3167,25 +3167,25 @@
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1192" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Konvertuoti aplinką" vertex="1">
           <mxGeometry height="45" width="100" x="2620" y="8140" as="geometry" />
         </mxCell>
-        <mxCell id="_MyUuUs7dsR4KSonzSJy-1193" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-1194" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-1186" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-1193" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-1186" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-1194" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="2795.74" y="7973" as="sourcePoint" />
-            <mxPoint x="3012.74" y="7905" as="targetPoint" />
+            <mxPoint x="3012.74" y="7905" as="sourcePoint" />
+            <mxPoint x="2795.74" y="7973" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1194" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Konfigūruoti aplinką" vertex="1">
           <mxGeometry height="45" width="100" x="2190" y="7987.5" as="geometry" />
         </mxCell>
-        <mxCell id="_MyUuUs7dsR4KSonzSJy-1196" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-1194" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-1189" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-1196" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-1189" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-1194" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="2473" y="8125" as="sourcePoint" />
-            <mxPoint x="2613.7023658047196" y="8062.806383802237" as="targetPoint" />
+            <mxPoint x="2613.7023658047196" y="8062.806383802237" as="sourcePoint" />
+            <mxPoint x="2473" y="8125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_MyUuUs7dsR4KSonzSJy-1197" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-1194" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-1188" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-1197" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-1188" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-1194" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="2610" y="8065" as="sourcePoint" />
-            <mxPoint x="2859" y="8065" as="targetPoint" />
+            <mxPoint x="2859" y="8065" as="sourcePoint" />
+            <mxPoint x="2610" y="8065" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1198" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Naudotojas" vertex="1">
@@ -3200,10 +3200,10 @@
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1211" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Redaguoti aplinkos pavadinimą" vertex="1">
           <mxGeometry height="50" width="100" x="2580" y="7932.5" as="geometry" />
         </mxCell>
-        <mxCell id="_MyUuUs7dsR4KSonzSJy-1212" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-1194" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-1211" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-1212" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-1211" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-1194" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="2440" y="8044" as="sourcePoint" />
-            <mxPoint x="2501" y="7950" as="targetPoint" />
+            <mxPoint x="2501" y="7950" as="sourcePoint" />
+            <mxPoint x="2440" y="8044" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1213" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-1186" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-1211" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
@@ -3700,10 +3700,10 @@
         <mxCell id="_MyUuUs7dsR4KSonzSJy-1439" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0;" value="Atidaryti išsaugotą aplinką" vertex="1">
           <mxGeometry height="40" width="120" x="2260.4999999999995" y="7830" as="geometry" />
         </mxCell>
-        <mxCell id="_MyUuUs7dsR4KSonzSJy-1440" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-1194" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-1439" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+        <mxCell id="_MyUuUs7dsR4KSonzSJy-1440" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-1439" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-1194" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="2310" y="8014" as="sourcePoint" />
-            <mxPoint x="2385" y="7920" as="targetPoint" />
+            <mxPoint x="2385" y="7920" as="sourcePoint" />
+            <mxPoint x="2310" y="8014" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5cJex4hXP4K5BQO4dVk6-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Įrašyti aplinkos duomenis" vertex="1">
@@ -3888,7 +3888,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-65" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Konfigūruoti zoną" vertex="1">
-          <mxGeometry height="45" width="100" x="2335.5" y="8835" as="geometry" />
+          <mxGeometry height="45" width="100" x="2315" y="8827.5" as="geometry" />
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-66" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Naudotojas" vertex="1">
           <mxGeometry height="60" width="30" x="2205.5" y="8820" as="geometry" />
@@ -3902,16 +3902,16 @@
         <mxCell id="vWwnnvwMX039ijo3DkyB-68" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Nustatyti zonos tipą" vertex="1">
           <mxGeometry height="40" width="120" x="2531.18" y="8880" as="geometry" />
         </mxCell>
-        <mxCell id="vWwnnvwMX039ijo3DkyB-69" edge="1" parent="1" source="vWwnnvwMX039ijo3DkyB-65" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="vWwnnvwMX039ijo3DkyB-71" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+        <mxCell id="vWwnnvwMX039ijo3DkyB-69" edge="1" parent="1" source="vWwnnvwMX039ijo3DkyB-71" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="vWwnnvwMX039ijo3DkyB-65" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="2647" y="8680" as="sourcePoint" />
-            <mxPoint x="2864" y="8712" as="targetPoint" />
+            <mxPoint x="2864" y="8712" as="sourcePoint" />
+            <mxPoint x="2647" y="8680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vWwnnvwMX039ijo3DkyB-70" edge="1" parent="1" source="vWwnnvwMX039ijo3DkyB-65" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="vWwnnvwMX039ijo3DkyB-68" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+        <mxCell id="vWwnnvwMX039ijo3DkyB-70" edge="1" parent="1" source="vWwnnvwMX039ijo3DkyB-68" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="vWwnnvwMX039ijo3DkyB-65" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="2630" y="8691" as="sourcePoint" />
-            <mxPoint x="3218" y="8728" as="targetPoint" />
+            <mxPoint x="3218" y="8728" as="sourcePoint" />
+            <mxPoint x="2630" y="8691" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-71" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Redaguoti zonos ribas" vertex="1">
@@ -4035,10 +4035,10 @@
         <mxCell id="vWwnnvwMX039ijo3DkyB-143" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Redaguoti &lt;br&gt;leidimą keisti zonos ir kliūčių tipą" vertex="1">
           <mxGeometry height="47.5" width="120" x="2390.61" y="8152.5" as="geometry" />
         </mxCell>
-        <mxCell id="vWwnnvwMX039ijo3DkyB-144" edge="1" parent="1" source="_MyUuUs7dsR4KSonzSJy-1194" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="vWwnnvwMX039ijo3DkyB-143" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+        <mxCell id="vWwnnvwMX039ijo3DkyB-144" edge="1" parent="1" source="vWwnnvwMX039ijo3DkyB-143" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="_MyUuUs7dsR4KSonzSJy-1194" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="2330" y="8240" as="sourcePoint" />
-            <mxPoint x="2503" y="8310" as="targetPoint" />
+            <mxPoint x="2503" y="8310" as="sourcePoint" />
+            <mxPoint x="2330" y="8240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vWwnnvwMX039ijo3DkyB-145" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Redaguoti leidimą keisti zonos ir kliūčių tipą" vertex="1">
@@ -4205,6 +4205,90 @@
         <mxCell id="vWwnnvwMX039ijo3DkyB-203" connectable="0" parent="vWwnnvwMX039ijo3DkyB-202" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ne" vertex="1">
           <mxGeometry relative="1" x="-0.9652" y="-1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Konfigūruoti kliūtis" vertex="1">
+          <mxGeometry height="45" width="100" x="2389.5" y="9567.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Naudotojas" vertex="1">
+          <mxGeometry height="60" width="30" x="2280" y="9560" as="geometry" />
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-3" edge="1" parent="1" source="MhFalKYK2lHQ7O-AheJz-2" style="endArrow=none;html=1;rounded=0;" target="MhFalKYK2lHQ7O-AheJz-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2340" y="9573.75" as="sourcePoint" />
+            <mxPoint x="2471" y="9594.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Nustatyti kliūties tipą" vertex="1">
+          <mxGeometry height="40" width="120" x="2605.68" y="9612.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-5" edge="1" parent="1" source="MhFalKYK2lHQ7O-AheJz-7" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="MhFalKYK2lHQ7O-AheJz-1" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2938.5" y="9452" as="sourcePoint" />
+            <mxPoint x="2721.5" y="9420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-6" edge="1" parent="1" source="MhFalKYK2lHQ7O-AheJz-4" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="MhFalKYK2lHQ7O-AheJz-1" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="3292.5" y="9468" as="sourcePoint" />
+            <mxPoint x="2704.5" y="9431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Redaguoti kliūties ribas" vertex="1">
+          <mxGeometry height="40" width="120" x="2605.68" y="9540" as="geometry" />
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Pasirinkti kliūtį" vertex="1">
+          <mxGeometry height="40" width="120" x="2850" y="9550" as="geometry" />
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-9" edge="1" parent="1" source="MhFalKYK2lHQ7O-AheJz-7" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="MhFalKYK2lHQ7O-AheJz-8" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2620" y="9603" as="sourcePoint" />
+            <mxPoint x="2752" y="9560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-10" edge="1" parent="1" source="MhFalKYK2lHQ7O-AheJz-4" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="MhFalKYK2lHQ7O-AheJz-8" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2700" y="9580" as="sourcePoint" />
+            <mxPoint x="2799" y="9612" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Ištrinti kliūtį" vertex="1">
+          <mxGeometry height="40" width="120" x="2600" y="9690" as="geometry" />
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Sukurti kliūtį" vertex="1">
+          <mxGeometry height="40" width="120" x="2605.68" y="9450" as="geometry" />
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-13" edge="1" parent="1" source="MhFalKYK2lHQ7O-AheJz-11" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="MhFalKYK2lHQ7O-AheJz-8" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2770" y="9520" as="sourcePoint" />
+            <mxPoint x="2881" y="9524" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-14" edge="1" parent="1" source="MhFalKYK2lHQ7O-AheJz-11" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="MhFalKYK2lHQ7O-AheJz-1" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2649" y="9520" as="sourcePoint" />
+            <mxPoint x="2530" y="9531" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-15" edge="1" parent="1" source="MhFalKYK2lHQ7O-AheJz-12" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="MhFalKYK2lHQ7O-AheJz-1" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2649" y="9500" as="sourcePoint" />
+            <mxPoint x="2530" y="9511" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-16" edge="1" parent="1" source="MhFalKYK2lHQ7O-AheJz-12" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="MhFalKYK2lHQ7O-AheJz-7" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2760" y="9420" as="sourcePoint" />
+            <mxPoint x="2873" y="9430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Įrašyti aplinkos duomenis" vertex="1">
+          <mxGeometry height="46.25" width="98.95" x="2490" y="8940" as="geometry" />
+        </mxCell>
+        <mxCell id="MhFalKYK2lHQ7O-AheJz-18" edge="1" parent="1" source="vWwnnvwMX039ijo3DkyB-65" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="MhFalKYK2lHQ7O-AheJz-17" value="&amp;lt;&amp;lt;include&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2410" y="8940" as="sourcePoint" />
+            <mxPoint x="2541" y="8969" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
