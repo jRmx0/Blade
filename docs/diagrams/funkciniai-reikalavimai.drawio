@@ -1079,7 +1079,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="v0.2" id="ZWdTrBStCpWvoV6iyAa_">
-    <mxGraphModel dx="3179" dy="-1534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="20714" dy="7712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4428,7 +4428,7 @@
         <mxCell id="-Ts46ub2H644Ubz9Vdj4-198" edge="1" parent="-Ts46ub2H644Ubz9Vdj4-182" source="-Ts46ub2H644Ubz9Vdj4-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="-Ts46ub2H644Ubz9Vdj4-194">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ts46ub2H644Ubz9Vdj4-189" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Konfigūruoti objektą" vertex="1">
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-189" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Konfigūruoti objektą" vertex="1">
           <mxGeometry height="50" width="100" x="1414.47" y="8691.25" as="geometry" />
         </mxCell>
         <mxCell id="-Ts46ub2H644Ubz9Vdj4-202" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Ištrinti objektą" vertex="1">
@@ -4476,6 +4476,63 @@
         </mxCell>
         <mxCell id="-Ts46ub2H644Ubz9Vdj4-223" edge="1" parent="-Ts46ub2H644Ubz9Vdj4-202" source="-Ts46ub2H644Ubz9Vdj4-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="-Ts46ub2H644Ubz9Vdj4-222">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-226" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Valdyti aplinkos peržiūrą" vertex="1">
+          <mxGeometry height="50" width="100" x="2428.37" y="9990" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-227" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Atstatyti aplinkos pradinį vaizdą" vertex="1">
+          <mxGeometry height="40" width="120" x="2689.37" y="9920" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-228" edge="1" parent="1" source="-Ts46ub2H644Ubz9Vdj4-227" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="-Ts46ub2H644Ubz9Vdj4-226" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2769.37" y="10068" as="sourcePoint" />
+            <mxPoint x="2601.37" y="10087" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-229" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Perjungti pagalbinį tinklelį" vertex="1">
+          <mxGeometry height="40" width="120" x="2689.37" y="9970.619999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-230" edge="1" parent="1" source="-Ts46ub2H644Ubz9Vdj4-229" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="-Ts46ub2H644Ubz9Vdj4-226" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2819.37" y="10058" as="sourcePoint" />
+            <mxPoint x="2651.37" y="10077" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-231" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Keisti aplinkos &lt;br&gt;vaizdo mastelį" vertex="1">
+          <mxGeometry height="40" width="120" x="2689.37" y="10019" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-232" edge="1" parent="1" source="-Ts46ub2H644Ubz9Vdj4-231" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="-Ts46ub2H644Ubz9Vdj4-226" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2789.37" y="10118" as="sourcePoint" />
+            <mxPoint x="2621.37" y="10137" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-233" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Naršyti tarp aplinkos" vertex="1">
+          <mxGeometry height="40" width="120" x="2689.37" y="10070" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-234" edge="1" parent="1" source="-Ts46ub2H644Ubz9Vdj4-233" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="-Ts46ub2H644Ubz9Vdj4-226" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2789.37" y="10138" as="sourcePoint" />
+            <mxPoint x="2621.37" y="10157" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-235" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Peržiūrėti aplinkos statistiką" vertex="1">
+          <mxGeometry height="40" width="120" x="2688.37" y="10120" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-236" edge="1" parent="1" source="-Ts46ub2H644Ubz9Vdj4-235" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="-Ts46ub2H644Ubz9Vdj4-226" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2759.37" y="10170" as="sourcePoint" />
+            <mxPoint x="2578.37" y="10120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-237" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Naudotojas" vertex="1">
+          <mxGeometry height="60" width="30" x="2323" y="9985" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-238" edge="1" parent="1" source="-Ts46ub2H644Ubz9Vdj4-237" style="endArrow=none;html=1;rounded=0;" target="-Ts46ub2H644Ubz9Vdj4-226" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2380" y="10000" as="sourcePoint" />
+            <mxPoint x="2459" y="10000" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
