@@ -4100,7 +4100,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YeSuhQ7h2hYltvqFR2pI" name="Overview">
-    <mxGraphModel dx="5063" dy="3402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2239" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4444,7 +4444,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vac9vQBYKvCP4TSIBl_0-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Vykdyti ZPKP" vertex="1">
-          <mxGeometry height="50" width="70" x="363.5499999999997" y="-861.5" as="geometry" />
+          <mxGeometry height="50" width="70" x="393.6799999999997" y="-861.5" as="geometry" />
         </mxCell>
         <mxCell id="Vac9vQBYKvCP4TSIBl_0-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Peržiūrėti ZPKP&amp;nbsp; rezultatus" vertex="1">
           <mxGeometry height="45" width="100" x="342.8800000000001" y="-686.5" as="geometry" />
