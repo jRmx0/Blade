@@ -1079,7 +1079,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="v0.2" id="ZWdTrBStCpWvoV6iyAa_">
-    <mxGraphModel dx="3015" dy="-1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3179" dy="-1534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4374,33 +4374,108 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-Ts46ub2H644Ubz9Vdj4-182" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Sukurti naują objektą" vertex="1">
-          <mxGeometry height="590" width="500" x="5080" y="9062.5" as="geometry" />
+          <mxGeometry height="340" width="500" x="5080" y="9062.5" as="geometry" />
         </mxCell>
         <mxCell id="-Ts46ub2H644Ubz9Vdj4-183" parent="-Ts46ub2H644Ubz9Vdj4-182" style="swimlane;startSize=20;html=1;" value="Naudotojas" vertex="1">
-          <mxGeometry height="570" width="250" y="20" as="geometry">
+          <mxGeometry height="320" width="250" y="20" as="geometry">
             <mxRectangle height="580" width="40" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-190" edge="1" parent="-Ts46ub2H644Ubz9Vdj4-183" source="-Ts46ub2H644Ubz9Vdj4-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-Ts46ub2H644Ubz9Vdj4-193">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="87.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-191" parent="-Ts46ub2H644Ubz9Vdj4-183" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="110" y="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-193" parent="-Ts46ub2H644Ubz9Vdj4-183" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Spaudžia naujo objekto sukūrimo mygtuką" vertex="1">
+          <mxGeometry height="30" width="200" x="25" y="87.5" as="geometry" />
         </mxCell>
         <mxCell id="-Ts46ub2H644Ubz9Vdj4-184" parent="-Ts46ub2H644Ubz9Vdj4-182" style="swimlane;startSize=20;html=1;" value="Sistema" vertex="1">
-          <mxGeometry height="570" width="250" x="250" y="20" as="geometry">
+          <mxGeometry height="320" width="250" x="250" y="20" as="geometry">
             <mxRectangle height="580" width="40" x="290" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Ts46ub2H644Ubz9Vdj4-185" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Ištrinti objektą" vertex="1">
-          <mxGeometry height="590" width="500" x="5680" y="9060" as="geometry" />
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-194" parent="-Ts46ub2H644Ubz9Vdj4-184" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Sukuriamas naujas objektas" vertex="1">
+          <mxGeometry height="30" width="200" x="25" y="87.5" as="geometry" />
         </mxCell>
-        <mxCell id="-Ts46ub2H644Ubz9Vdj4-186" parent="-Ts46ub2H644Ubz9Vdj4-185" style="swimlane;startSize=20;html=1;" value="Naudotojas" vertex="1">
-          <mxGeometry height="570" width="250" y="20" as="geometry">
-            <mxRectangle height="580" width="40" as="alternateBounds" />
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-201" edge="1" parent="-Ts46ub2H644Ubz9Vdj4-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-Ts46ub2H644Ubz9Vdj4-197">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="237.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Ts46ub2H644Ubz9Vdj4-187" parent="-Ts46ub2H644Ubz9Vdj4-185" style="swimlane;startSize=20;html=1;" value="Sistema" vertex="1">
-          <mxGeometry height="570" width="250" x="250" y="20" as="geometry">
-            <mxRectangle height="580" width="40" x="290" as="alternateBounds" />
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-196" parent="-Ts46ub2H644Ubz9Vdj4-184" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Vykdomas funkcinis reikalavimas „Įrašyti aplinkos duomenis“" vertex="1">
+          <mxGeometry height="32" width="210" x="20" y="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-199" edge="1" parent="-Ts46ub2H644Ubz9Vdj4-184" source="-Ts46ub2H644Ubz9Vdj4-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-16;entryPerimeter=0;" target="-Ts46ub2H644Ubz9Vdj4-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-200" edge="1" parent="-Ts46ub2H644Ubz9Vdj4-184" source="-Ts46ub2H644Ubz9Vdj4-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-16;entryPerimeter=0;" target="-Ts46ub2H644Ubz9Vdj4-219">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="207.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-197" parent="-Ts46ub2H644Ubz9Vdj4-184" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="110" y="269.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-220" edge="1" parent="-Ts46ub2H644Ubz9Vdj4-184" source="-Ts46ub2H644Ubz9Vdj4-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;" target="-Ts46ub2H644Ubz9Vdj4-197" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-219" parent="-Ts46ub2H644Ubz9Vdj4-184" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Vykdomas funkcinis reikalavimas „Įrašyti aplinkos duomenis“" vertex="1">
+          <mxGeometry height="32" width="210" x="20" y="207.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-198" edge="1" parent="-Ts46ub2H644Ubz9Vdj4-182" source="-Ts46ub2H644Ubz9Vdj4-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="-Ts46ub2H644Ubz9Vdj4-194">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Ts46ub2H644Ubz9Vdj4-189" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Konfigūruoti objektus" vertex="1">
           <mxGeometry height="50" width="100" x="1414.47" y="8691.25" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-202" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Ištrinti objektą" vertex="1">
+          <mxGeometry height="330" width="500" x="5670" y="9060" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-203" parent="-Ts46ub2H644Ubz9Vdj4-202" style="swimlane;startSize=20;html=1;" value="Naudotojas" vertex="1">
+          <mxGeometry height="310" width="250" y="20" as="geometry">
+            <mxRectangle height="580" width="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-217" edge="1" parent="-Ts46ub2H644Ubz9Vdj4-203" source="-Ts46ub2H644Ubz9Vdj4-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="-Ts46ub2H644Ubz9Vdj4-216">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-205" parent="-Ts46ub2H644Ubz9Vdj4-203" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="110" y="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-206" parent="-Ts46ub2H644Ubz9Vdj4-203" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Spaudžia objekto ištrynimo mygtuką" vertex="1">
+          <mxGeometry height="30" width="200" x="25" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-216" parent="-Ts46ub2H644Ubz9Vdj4-203" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Vykdomas funkcinis reikalavimas „Pasirinkti objektą“" vertex="1">
+          <mxGeometry height="32" width="210" x="20" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-221" edge="1" parent="-Ts46ub2H644Ubz9Vdj4-203" source="-Ts46ub2H644Ubz9Vdj4-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="-Ts46ub2H644Ubz9Vdj4-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-207" parent="-Ts46ub2H644Ubz9Vdj4-202" style="swimlane;startSize=20;html=1;" value="Sistema" vertex="1">
+          <mxGeometry height="310" width="250" x="250" y="20" as="geometry">
+            <mxRectangle height="580" width="40" x="290" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-225" edge="1" parent="-Ts46ub2H644Ubz9Vdj4-207" source="-Ts46ub2H644Ubz9Vdj4-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-Ts46ub2H644Ubz9Vdj4-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-211" parent="-Ts46ub2H644Ubz9Vdj4-207" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Vykdomas funkcinis reikalavimas „Įrašyti aplinkos duomenis“" vertex="1">
+          <mxGeometry height="32" width="210" x="25" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-214" parent="-Ts46ub2H644Ubz9Vdj4-207" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="115" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-222" parent="-Ts46ub2H644Ubz9Vdj4-207" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Ištrinamas objektas" vertex="1">
+          <mxGeometry height="30" width="200" x="30" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-224" edge="1" parent="-Ts46ub2H644Ubz9Vdj4-207" source="-Ts46ub2H644Ubz9Vdj4-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-16;entryPerimeter=0;" target="-Ts46ub2H644Ubz9Vdj4-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-223" edge="1" parent="-Ts46ub2H644Ubz9Vdj4-202" source="-Ts46ub2H644Ubz9Vdj4-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="-Ts46ub2H644Ubz9Vdj4-222">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
