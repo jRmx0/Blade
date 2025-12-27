@@ -4428,7 +4428,7 @@
         <mxCell id="-Ts46ub2H644Ubz9Vdj4-198" edge="1" parent="-Ts46ub2H644Ubz9Vdj4-182" source="-Ts46ub2H644Ubz9Vdj4-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="-Ts46ub2H644Ubz9Vdj4-194">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ts46ub2H644Ubz9Vdj4-189" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Konfigūruoti objektus" vertex="1">
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-189" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Konfigūruoti objektą" vertex="1">
           <mxGeometry height="50" width="100" x="1414.47" y="8691.25" as="geometry" />
         </mxCell>
         <mxCell id="-Ts46ub2H644Ubz9Vdj4-202" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Ištrinti objektą" vertex="1">
