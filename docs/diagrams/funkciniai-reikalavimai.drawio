@@ -1079,7 +1079,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="v0.2" id="ZWdTrBStCpWvoV6iyAa_">
-    <mxGraphModel dx="3469" dy="-1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3242" dy="-1500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4400,6 +4400,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MhFalKYK2lHQ7O-AheJz-89" edge="1" parent="MhFalKYK2lHQ7O-AheJz-28" source="MhFalKYK2lHQ7O-AheJz-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="MhFalKYK2lHQ7O-AheJz-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Pasirinkti kliūtį" vertex="1">
+          <mxGeometry height="230" width="520" x="3150" y="9460" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-5" parent="-Ts46ub2H644Ubz9Vdj4-1" style="swimlane;startSize=20;html=1;" value="Naudotojas" vertex="1">
+          <mxGeometry height="210" width="250" y="20" as="geometry">
+            <mxRectangle height="580" width="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-7" parent="-Ts46ub2H644Ubz9Vdj4-5" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="110" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-34" parent="-Ts46ub2H644Ubz9Vdj4-5" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Darbalaukyje paspaudžia ant norimos kliūties" vertex="1">
+          <mxGeometry height="30" width="200" x="25" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-69" edge="1" parent="-Ts46ub2H644Ubz9Vdj4-5" source="-Ts46ub2H644Ubz9Vdj4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="-Ts46ub2H644Ubz9Vdj4-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-15" parent="-Ts46ub2H644Ubz9Vdj4-1" style="swimlane;startSize=20;html=1;" value="Sistema" vertex="1">
+          <mxGeometry height="210" width="270" x="250" y="20" as="geometry">
+            <mxRectangle height="580" width="40" x="290" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-72" edge="1" parent="-Ts46ub2H644Ubz9Vdj4-15" source="-Ts46ub2H644Ubz9Vdj4-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-Ts46ub2H644Ubz9Vdj4-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-68" parent="-Ts46ub2H644Ubz9Vdj4-15" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Įjungiamas kliūties redagavimo režimas" vertex="1">
+          <mxGeometry height="30" width="200" x="40" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-71" parent="-Ts46ub2H644Ubz9Vdj4-15" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="125" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ts46ub2H644Ubz9Vdj4-70" edge="1" parent="-Ts46ub2H644Ubz9Vdj4-1" source="-Ts46ub2H644Ubz9Vdj4-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="-Ts46ub2H644Ubz9Vdj4-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
