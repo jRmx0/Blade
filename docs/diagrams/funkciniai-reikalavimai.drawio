@@ -4801,7 +4801,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B0lbLej3ud8RJkcUwHB2" name="CPP">
-    <mxGraphModel dx="1240" dy="646" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="929" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6372,7 +6372,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OI_Cq6D3gLQA9tAQ3Wdp" name="Env">
-    <mxGraphModel dx="1348" dy="1980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1614" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7969,6 +7969,113 @@
         </mxCell>
         <mxCell id="Lgabj_gZN-VzvLcfEtT3-76" edge="1" parent="Lgabj_gZN-VzvLcfEtT3-48" source="Lgabj_gZN-VzvLcfEtT3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Lgabj_gZN-VzvLcfEtT3-70">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Nustatyti aplinkos tipą" vertex="1">
+          <mxGeometry height="560" width="520" x="3900" y="-700" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-2" edge="1" parent="WCJREO6vwwERL7jdIvjY-1" source="WCJREO6vwwERL7jdIvjY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WCJREO6vwwERL7jdIvjY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-3" edge="1" parent="WCJREO6vwwERL7jdIvjY-1" source="WCJREO6vwwERL7jdIvjY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-16;entryPerimeter=0;" target="WCJREO6vwwERL7jdIvjY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-4" edge="1" parent="WCJREO6vwwERL7jdIvjY-1" source="WCJREO6vwwERL7jdIvjY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WCJREO6vwwERL7jdIvjY-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-5" parent="WCJREO6vwwERL7jdIvjY-1" style="swimlane;startSize=20;html=1;" value="Naudotojas" vertex="1">
+          <mxGeometry height="540" width="250" y="20" as="geometry">
+            <mxRectangle height="580" width="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-6" edge="1" parent="WCJREO6vwwERL7jdIvjY-5" source="WCJREO6vwwERL7jdIvjY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WCJREO6vwwERL7jdIvjY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-7" parent="WCJREO6vwwERL7jdIvjY-5" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="110" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-8" parent="WCJREO6vwwERL7jdIvjY-5" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Paspaudžia išskleidžiamą meniu lauką „Aplinkos tipas“" vertex="1">
+          <mxGeometry height="32" width="210" x="20.00000000000029" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-9" parent="WCJREO6vwwERL7jdIvjY-5" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Pasirenka tipą iš meniu" vertex="1">
+          <mxGeometry height="32" width="210" x="20" y="187.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-10" edge="1" parent="WCJREO6vwwERL7jdIvjY-5" source="WCJREO6vwwERL7jdIvjY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WCJREO6vwwERL7jdIvjY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-11" connectable="0" parent="WCJREO6vwwERL7jdIvjY-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ne" vertex="1">
+          <mxGeometry relative="1" x="-0.2304" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-12" parent="WCJREO6vwwERL7jdIvjY-5" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" value="" vertex="1">
+          <mxGeometry height="35" width="53" x="98.4999999999996" y="366" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-13" parent="WCJREO6vwwERL7jdIvjY-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ištrinti ZPKP algoritmo pasirinkimą?" vertex="1">
+          <mxGeometry height="30" width="88.57" x="19.999999999999996" y="368.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-14" parent="WCJREO6vwwERL7jdIvjY-5" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="30.5" width="30.5" x="108.56999999999971" y="457.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-15" parent="WCJREO6vwwERL7jdIvjY-1" style="swimlane;startSize=20;html=1;" value="Sistema" vertex="1">
+          <mxGeometry height="540" width="270" x="250" y="20" as="geometry">
+            <mxRectangle height="580" width="40" x="290" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-16" parent="WCJREO6vwwERL7jdIvjY-15" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Atvaizduojamas išskleistas aplinkos tipo meniu&amp;nbsp;" vertex="1">
+          <mxGeometry height="32" width="210" x="20" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-17" parent="WCJREO6vwwERL7jdIvjY-15" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Vykdomas funkcinis reikalavimas „Įrašyti aplinkos duomenis“" vertex="1">
+          <mxGeometry height="32" width="210" x="20" y="367.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-18" parent="WCJREO6vwwERL7jdIvjY-15" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="30.5" width="30.5" x="109.75" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-19" parent="WCJREO6vwwERL7jdIvjY-15" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" value="" vertex="1">
+          <mxGeometry height="35" width="53" x="98.4999999999996" y="237.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-20" parent="WCJREO6vwwERL7jdIvjY-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ar aplinkos tipas suderinamas &lt;br&gt;su pasirinktu &lt;br&gt;ZPKP algoritmu?" vertex="1">
+          <mxGeometry height="50" width="120" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-21" parent="WCJREO6vwwERL7jdIvjY-15" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Pateikiamas nesuderinamo algoritmo pranešimas" vertex="1">
+          <mxGeometry height="30" width="215" x="17.5" y="307.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-22" edge="1" parent="WCJREO6vwwERL7jdIvjY-15" source="WCJREO6vwwERL7jdIvjY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="WCJREO6vwwERL7jdIvjY-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-23" connectable="0" parent="WCJREO6vwwERL7jdIvjY-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ne" vertex="1">
+          <mxGeometry relative="1" x="-0.5813" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-24" edge="1" parent="WCJREO6vwwERL7jdIvjY-15" source="WCJREO6vwwERL7jdIvjY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WCJREO6vwwERL7jdIvjY-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-25" parent="WCJREO6vwwERL7jdIvjY-15" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Pasirinktas aplinkos tipas atvaizduojamas meniu lauke" vertex="1">
+          <mxGeometry height="32" width="210" x="20" y="427.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-26" edge="1" parent="WCJREO6vwwERL7jdIvjY-15" source="WCJREO6vwwERL7jdIvjY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="WCJREO6vwwERL7jdIvjY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-27" connectable="0" parent="WCJREO6vwwERL7jdIvjY-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;Taip&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="-0.6707" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-28" edge="1" parent="WCJREO6vwwERL7jdIvjY-15" source="WCJREO6vwwERL7jdIvjY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-16;entryPerimeter=0;" target="WCJREO6vwwERL7jdIvjY-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-33" edge="1" parent="WCJREO6vwwERL7jdIvjY-1" source="WCJREO6vwwERL7jdIvjY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WCJREO6vwwERL7jdIvjY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-34" edge="1" parent="WCJREO6vwwERL7jdIvjY-1" source="WCJREO6vwwERL7jdIvjY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="WCJREO6vwwERL7jdIvjY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCJREO6vwwERL7jdIvjY-35" connectable="0" parent="WCJREO6vwwERL7jdIvjY-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;Taip&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="-0.4219" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
