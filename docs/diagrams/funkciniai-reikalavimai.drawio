@@ -4801,7 +4801,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B0lbLej3ud8RJkcUwHB2" name="CPP">
-    <mxGraphModel dx="2118" dy="1117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="646" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4946,10 +4946,10 @@
             <mxPoint x="1396" y="2920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4BOuaLr5ELOMOHp2HOSX-7" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Pasirinkti ZPKP algoritmą" vertex="1">
+        <mxCell id="4BOuaLr5ELOMOHp2HOSX-7" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;swimlaneLine=1;container=1;" value="Pasirinkti ZPKP algoritmą" vertex="1">
           <mxGeometry height="550" width="690" x="1396.5" y="21.62" as="geometry" />
         </mxCell>
-        <mxCell id="4BOuaLr5ELOMOHp2HOSX-8" parent="4BOuaLr5ELOMOHp2HOSX-7" style="swimlane;startSize=20;html=1;" value="Naudotojas" vertex="1">
+        <mxCell id="4BOuaLr5ELOMOHp2HOSX-8" parent="4BOuaLr5ELOMOHp2HOSX-7" style="swimlane;startSize=20;html=1;container=1;" value="Naudotojas" vertex="1">
           <mxGeometry height="530" width="290" y="20" as="geometry">
             <mxRectangle height="580" width="40" as="alternateBounds" />
           </mxGeometry>
@@ -4966,7 +4966,7 @@
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-12" parent="4BOuaLr5ELOMOHp2HOSX-8" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Pasirenka algoritmą iš meniu" vertex="1">
           <mxGeometry height="32" width="210" x="30" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="4BOuaLr5ELOMOHp2HOSX-13" parent="4BOuaLr5ELOMOHp2HOSX-7" style="swimlane;startSize=20;html=1;" value="Sistema" vertex="1">
+        <mxCell id="4BOuaLr5ELOMOHp2HOSX-13" parent="4BOuaLr5ELOMOHp2HOSX-7" style="swimlane;startSize=20;html=1;container=1;" value="Sistema" vertex="1">
           <mxGeometry height="530" width="400" x="290" y="20" as="geometry">
             <mxRectangle height="580" width="40" x="290" as="alternateBounds" />
           </mxGeometry>
