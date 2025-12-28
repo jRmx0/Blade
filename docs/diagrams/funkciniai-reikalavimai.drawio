@@ -6372,7 +6372,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OI_Cq6D3gLQA9tAQ3Wdp" name="Env">
-    <mxGraphModel dx="4151" dy="3383" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3466" dy="3383" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8077,43 +8077,43 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DTnDF_zLcb6GM2BCJLE9-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Eksportuoti duomenis" vertex="1">
+        <mxCell id="DTnDF_zLcb6GM2BCJLE9-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Eksportuoti duomenis" vertex="1">
           <mxGeometry height="45.62" width="100" x="367.52" y="297.9999999999974" as="geometry" />
         </mxCell>
-        <mxCell id="DTnDF_zLcb6GM2BCJLE9-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Naudotojas" vertex="1">
+        <mxCell id="DTnDF_zLcb6GM2BCJLE9-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Naudotojas" vertex="1">
           <mxGeometry height="60" width="30" x="82" y="353.62999999999727" as="geometry" />
         </mxCell>
-        <mxCell id="DTnDF_zLcb6GM2BCJLE9-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Konfigūruoti aplinką" vertex="1">
+        <mxCell id="DTnDF_zLcb6GM2BCJLE9-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Konfigūruoti aplinką" vertex="1">
           <mxGeometry height="45" width="100" x="367.52" y="357.9999999999974" as="geometry" />
         </mxCell>
-        <mxCell id="DTnDF_zLcb6GM2BCJLE9-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Tvarkyti aplinką" vertex="1">
+        <mxCell id="DTnDF_zLcb6GM2BCJLE9-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Tvarkyti aplinką" vertex="1">
           <mxGeometry height="45" width="100" x="177" y="361.1199999999973" as="geometry" />
         </mxCell>
-        <mxCell id="DTnDF_zLcb6GM2BCJLE9-9" edge="1" parent="1" source="DTnDF_zLcb6GM2BCJLE9-5" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="DTnDF_zLcb6GM2BCJLE9-8" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+        <mxCell id="DTnDF_zLcb6GM2BCJLE9-9" edge="1" parent="1" source="DTnDF_zLcb6GM2BCJLE9-5" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" target="DTnDF_zLcb6GM2BCJLE9-8" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="413.04999999999995" y="386.1199999999973" as="sourcePoint" />
             <mxPoint x="695.05" y="386.1199999999973" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DTnDF_zLcb6GM2BCJLE9-10" edge="1" parent="1" source="DTnDF_zLcb6GM2BCJLE9-13" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="DTnDF_zLcb6GM2BCJLE9-8" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+        <mxCell id="DTnDF_zLcb6GM2BCJLE9-10" edge="1" parent="1" source="DTnDF_zLcb6GM2BCJLE9-13" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" target="DTnDF_zLcb6GM2BCJLE9-8" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="377.4770249696537" y="435.14582356798576" as="sourcePoint" />
             <mxPoint x="695.05" y="376.1199999999973" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DTnDF_zLcb6GM2BCJLE9-11" edge="1" parent="1" source="DTnDF_zLcb6GM2BCJLE9-8" style="endArrow=none;html=1;rounded=0;" target="DTnDF_zLcb6GM2BCJLE9-3" value="">
+        <mxCell id="DTnDF_zLcb6GM2BCJLE9-11" edge="1" parent="1" source="DTnDF_zLcb6GM2BCJLE9-8" style="endArrow=none;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" target="DTnDF_zLcb6GM2BCJLE9-3" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="359.04999999999995" y="376.12999999999727" as="sourcePoint" />
             <mxPoint x="188.04999999999995" y="500.12999999999727" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DTnDF_zLcb6GM2BCJLE9-12" edge="1" parent="1" source="DTnDF_zLcb6GM2BCJLE9-2" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="DTnDF_zLcb6GM2BCJLE9-8" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+        <mxCell id="DTnDF_zLcb6GM2BCJLE9-12" edge="1" parent="1" source="DTnDF_zLcb6GM2BCJLE9-2" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" target="DTnDF_zLcb6GM2BCJLE9-8" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="534.05" y="308.1199999999973" as="sourcePoint" />
             <mxPoint x="443.04999999999995" y="306.1199999999973" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DTnDF_zLcb6GM2BCJLE9-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Konfigūruoti objektą" vertex="1">
+        <mxCell id="DTnDF_zLcb6GM2BCJLE9-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Konfigūruoti objektą" vertex="1">
           <mxGeometry height="50" width="100" x="367.52" y="419.2499999999974" as="geometry" />
         </mxCell>
       </root>
