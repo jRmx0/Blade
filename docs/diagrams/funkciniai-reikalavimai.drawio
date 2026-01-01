@@ -4100,7 +4100,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YeSuhQ7h2hYltvqFR2pI" name="Overview">
-    <mxGraphModel dx="3393" dy="2551" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1699" dy="1766" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4174,7 +4174,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JHN1uDteIPKfPWg0Btjq-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Valdyti darbalaukio peržiūrą" vertex="1">
-          <mxGeometry height="50" width="100" x="-469" y="835.0000000000009" as="geometry" />
+          <mxGeometry height="50" width="100" x="-469" y="763.0000000000009" as="geometry" />
         </mxCell>
         <mxCell id="JHN1uDteIPKfPWg0Btjq-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Eksportuoti duomenis" vertex="1">
           <mxGeometry height="45.62" width="100" x="-278.48" y="619.3800000000001" as="geometry" />
@@ -4434,15 +4434,6 @@
             <mxPoint x="307.0000000000002" y="1035" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vac9vQBYKvCP4TSIBl_0-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Peržiūrėti statistiką" vertex="1">
-          <mxGeometry height="40" width="120" x="-469" y="765" as="geometry" />
-        </mxCell>
-        <mxCell id="Vac9vQBYKvCP4TSIBl_0-2" edge="1" parent="1" source="JHN1uDteIPKfPWg0Btjq-5" style="endArrow=none;html=1;rounded=0;" target="Vac9vQBYKvCP4TSIBl_0-1" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-287" y="845" as="sourcePoint" />
-            <mxPoint x="-114" y="982" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Vac9vQBYKvCP4TSIBl_0-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Vykdyti ZPKP" vertex="1">
           <mxGeometry height="50" width="70" x="393.6799999999997" y="-861.5" as="geometry" />
         </mxCell>
@@ -4594,7 +4585,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_iiIgU0aZFFIo0Efa-Q-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Valdyti darbalaukio peržiūrą" vertex="1">
-          <mxGeometry height="50" width="100" x="-466" y="244.0000000000009" as="geometry" />
+          <mxGeometry height="50" width="100" x="-466" y="167.5000000000009" as="geometry" />
         </mxCell>
         <mxCell id="k_iiIgU0aZFFIo0Efa-Q-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Eksportuoti duomenis" vertex="1">
           <mxGeometry height="45.62" width="100" x="-275.48" y="28.38000000000011" as="geometry" />
@@ -4634,9 +4625,6 @@
         </mxCell>
         <mxCell id="k_iiIgU0aZFFIo0Efa-Q-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Konfigūruoti objektą" vertex="1">
           <mxGeometry height="50" width="100" x="-275.48" y="149.6300000000001" as="geometry" />
-        </mxCell>
-        <mxCell id="k_iiIgU0aZFFIo0Efa-Q-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Peržiūrėti statistiką" vertex="1">
-          <mxGeometry height="40" width="120" x="-466" y="174" as="geometry" />
         </mxCell>
         <mxCell id="k_iiIgU0aZFFIo0Efa-Q-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Eksportuoti duomenis" vertex="1">
           <mxGeometry height="45" width="85" x="-269.0300000000002" y="-88.13000000000011" as="geometry" />
@@ -4708,12 +4696,6 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-536" y="86" as="sourcePoint" />
             <mxPoint x="-404" y="20" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="k_iiIgU0aZFFIo0Efa-Q-50" edge="1" parent="1" source="k_iiIgU0aZFFIo0Efa-Q-40" style="endArrow=none;html=1;rounded=0;" target="k_iiIgU0aZFFIo0Efa-Q-28" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-556" y="156" as="sourcePoint" />
-            <mxPoint x="-424" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_iiIgU0aZFFIo0Efa-Q-51" edge="1" parent="1" source="k_iiIgU0aZFFIo0Efa-Q-40" style="endArrow=none;html=1;rounded=0;" target="k_iiIgU0aZFFIo0Efa-Q-15" value="">
@@ -6372,7 +6354,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OI_Cq6D3gLQA9tAQ3Wdp" name="Env">
-    <mxGraphModel dx="970" dy="1811" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3466" dy="3383" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
