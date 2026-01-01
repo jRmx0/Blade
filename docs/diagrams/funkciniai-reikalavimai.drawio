@@ -6354,7 +6354,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OI_Cq6D3gLQA9tAQ3Wdp" name="Env">
-    <mxGraphModel dx="735" dy="1663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1277" dy="2004" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7242,7 +7242,7 @@
           <mxGeometry height="37.5" width="85" x="25" y="213.75" as="geometry" />
         </mxCell>
         <mxCell id="Hlz47NyesW4UyFQIDtXo-191" parent="Hlz47NyesW4UyFQIDtXo-185" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="110" y="387.5" as="geometry" />
+          <mxGeometry height="30" width="30" x="112" y="394" as="geometry" />
         </mxCell>
         <mxCell id="Hlz47NyesW4UyFQIDtXo-192" parent="Hlz47NyesW4UyFQIDtXo-185" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Pasirenka aplinką" vertex="1">
           <mxGeometry height="30" width="200" x="25" y="457.5" as="geometry" />
@@ -7323,16 +7323,13 @@
           <mxGeometry height="20" width="20" x="115" y="277.5" as="geometry" />
         </mxCell>
         <mxCell id="Hlz47NyesW4UyFQIDtXo-213" parent="Hlz47NyesW4UyFQIDtXo-193" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Pateikiamas tuščios aplinkos duomenų bazės pranešimas" vertex="1">
-          <mxGeometry height="30" width="192.5" x="28.75" y="387.5" as="geometry" />
+          <mxGeometry height="30" width="192.5" x="28.75" y="394" as="geometry" />
         </mxCell>
         <mxCell id="Hlz47NyesW4UyFQIDtXo-214" parent="Hlz47NyesW4UyFQIDtXo-193" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Atvaizduojamas aplinkos pasirinkimo langas" vertex="1">
           <mxGeometry height="30" width="200" x="25" y="457.5" as="geometry" />
         </mxCell>
         <mxCell id="Hlz47NyesW4UyFQIDtXo-215" parent="Hlz47NyesW4UyFQIDtXo-193" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Užkraunama pasirinkta aplinka" vertex="1">
           <mxGeometry height="30" width="200" x="25" y="517.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Hlz47NyesW4UyFQIDtXo-216" edge="1" parent="Hlz47NyesW4UyFQIDtXo-193" source="Hlz47NyesW4UyFQIDtXo-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="Hlz47NyesW4UyFQIDtXo-214">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qk_q6rCQHNE3benmG6mG-1" edge="1" parent="Hlz47NyesW4UyFQIDtXo-193" source="Hlz47NyesW4UyFQIDtXo-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="Hlz47NyesW4UyFQIDtXo-214">
           <mxGeometry relative="1" as="geometry" />
