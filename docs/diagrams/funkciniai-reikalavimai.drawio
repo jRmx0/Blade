@@ -8114,7 +8114,7 @@
         <mxCell id="qk_q6rCQHNE3benmG6mG-6" parent="qk_q6rCQHNE3benmG6mG-4" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Spaudžia mygtuką „Importuoti“" vertex="1">
           <mxGeometry height="30" width="200" x="25" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="qk_q6rCQHNE3benmG6mG-7" parent="qk_q6rCQHNE3benmG6mG-4" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Pasirenka failo norimą failą" vertex="1">
+        <mxCell id="qk_q6rCQHNE3benmG6mG-7" parent="qk_q6rCQHNE3benmG6mG-4" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Pasirenka aplinkos failą" vertex="1">
           <mxGeometry height="30" width="150" x="50" y="248" as="geometry" />
         </mxCell>
         <mxCell id="qk_q6rCQHNE3benmG6mG-8" edge="1" parent="qk_q6rCQHNE3benmG6mG-4" source="qk_q6rCQHNE3benmG6mG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="qk_q6rCQHNE3benmG6mG-6">
