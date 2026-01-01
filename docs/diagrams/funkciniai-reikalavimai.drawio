@@ -6354,7 +6354,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OI_Cq6D3gLQA9tAQ3Wdp" name="Env">
-    <mxGraphModel dx="1155" dy="2328" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="1895" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6416,7 +6416,7 @@
           <mxGeometry height="50" width="100" x="450.52" y="-884.3700000000026" as="geometry" />
         </mxCell>
         <mxCell id="PnjDYW6_u3nDvUXXwORy-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Sukurti naują aplinką" vertex="1">
-          <mxGeometry height="50" width="100" x="1113" y="-390" as="geometry" />
+          <mxGeometry height="50" width="100" x="1220" y="-439" as="geometry" />
         </mxCell>
         <mxCell id="PnjDYW6_u3nDvUXXwORy-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Nustatyti aplinkos tipą" vertex="1">
           <mxGeometry height="40" width="120" x="1046.5" y="-106.25" as="geometry" />
@@ -6479,7 +6479,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PnjDYW6_u3nDvUXXwORy-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0;" value="Atidaryti išsaugotą aplinką" vertex="1">
-          <mxGeometry height="40" width="120" x="907.4999999999995" y="-390" as="geometry" />
+          <mxGeometry height="40" width="120" x="869.4999999999995" y="-434" as="geometry" />
         </mxCell>
         <mxCell id="PnjDYW6_u3nDvUXXwORy-16" edge="1" parent="1" source="PnjDYW6_u3nDvUXXwORy-15" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="PnjDYW6_u3nDvUXXwORy-7" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
@@ -6620,7 +6620,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PnjDYW6_u3nDvUXXwORy-46" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Importuoti aplinką" vertex="1">
-          <mxGeometry height="50" width="100" x="1008.1800000000003" y="-480" as="geometry" />
+          <mxGeometry height="50" width="100" x="1034.0000000000002" y="-439" as="geometry" />
         </mxCell>
         <mxCell id="PnjDYW6_u3nDvUXXwORy-47" edge="1" parent="1" source="PnjDYW6_u3nDvUXXwORy-46" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="PnjDYW6_u3nDvUXXwORy-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
@@ -7977,7 +7977,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qk_q6rCQHNE3benmG6mG-24" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Išsaugoti darbinę aplinką" vertex="1">
-          <mxGeometry height="362" width="520" x="3100" y="-1268" as="geometry" />
+          <mxGeometry height="362" width="520" x="2411" y="-971" as="geometry" />
         </mxCell>
         <mxCell id="qk_q6rCQHNE3benmG6mG-25" parent="qk_q6rCQHNE3benmG6mG-24" style="swimlane;startSize=20;html=1;" value="Naudotojas" vertex="1">
           <mxGeometry height="342" width="250" y="20" as="geometry">
@@ -8067,6 +8067,27 @@
         <mxCell id="qk_q6rCQHNE3benmG6mG-63" connectable="0" parent="qk_q6rCQHNE3benmG6mG-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ne" vertex="1">
           <mxGeometry relative="1" x="-0.886" y="-1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qk_q6rCQHNE3benmG6mG-74" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0;" value="Išsaugoti darbinę aplinką" vertex="1">
+          <mxGeometry height="40" width="120" x="1034" y="-539" as="geometry" />
+        </mxCell>
+        <mxCell id="qk_q6rCQHNE3benmG6mG-75" edge="1" parent="1" source="PnjDYW6_u3nDvUXXwORy-1" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="qk_q6rCQHNE3benmG6mG-74" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1210" y="-498" as="sourcePoint" />
+            <mxPoint x="1265" y="-452" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qk_q6rCQHNE3benmG6mG-76" edge="1" parent="1" source="PnjDYW6_u3nDvUXXwORy-46" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="qk_q6rCQHNE3benmG6mG-74" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1177" y="-496" as="sourcePoint" />
+            <mxPoint x="1232" y="-450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qk_q6rCQHNE3benmG6mG-77" edge="1" parent="1" source="PnjDYW6_u3nDvUXXwORy-15" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="qk_q6rCQHNE3benmG6mG-74" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1194" y="-507" as="sourcePoint" />
+            <mxPoint x="1249" y="-461" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
