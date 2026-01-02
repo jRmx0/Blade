@@ -6354,7 +6354,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OI_Cq6D3gLQA9tAQ3Wdp" name="Env">
-    <mxGraphModel dx="1103" dy="1895" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1617" dy="2219" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7320,41 +7320,42 @@
         <mxCell id="Hlz47NyesW4UyFQIDtXo-246" parent="Hlz47NyesW4UyFQIDtXo-236" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="195.47" y="527.5" as="geometry" />
         </mxCell>
-        <mxCell id="Hlz47NyesW4UyFQIDtXo-247" parent="Hlz47NyesW4UyFQIDtXo-236" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Nustatomas zonos ir kliūčių tipas pagal aplinkos tipą" vertex="1">
+        <mxCell id="Hlz47NyesW4UyFQIDtXo-247" parent="Hlz47NyesW4UyFQIDtXo-236" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Įjungiamas globalus tipas" vertex="1">
           <mxGeometry height="30" width="200" x="15" y="177.5" as="geometry" />
         </mxCell>
         <mxCell id="Hlz47NyesW4UyFQIDtXo-248" parent="Hlz47NyesW4UyFQIDtXo-236" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Vykdomas funkcinis reikalavimas „Įrašyti aplinkos duomenis“" vertex="1">
           <mxGeometry height="32" width="210" x="10" y="237.5" as="geometry" />
         </mxCell>
-        <mxCell id="Hlz47NyesW4UyFQIDtXo-249" parent="Hlz47NyesW4UyFQIDtXo-236" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Nustatomas zonos ir kliūčių tipas pagal aplinkos tipą" vertex="1">
+        <mxCell id="Hlz47NyesW4UyFQIDtXo-249" parent="Hlz47NyesW4UyFQIDtXo-236" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Išjungiamas globalus tipas" vertex="1">
           <mxGeometry height="30" width="200" x="15" y="617.5" as="geometry" />
         </mxCell>
         <mxCell id="Hlz47NyesW4UyFQIDtXo-250" parent="Hlz47NyesW4UyFQIDtXo-236" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Vykdomas funkcinis reikalavimas „Įrašyti aplinkos duomenis“" vertex="1">
           <mxGeometry height="32" width="210" x="10" y="677.5" as="geometry" />
         </mxCell>
-        <mxCell id="Hlz47NyesW4UyFQIDtXo-251" edge="1" parent="Hlz47NyesW4UyFQIDtXo-236" source="Hlz47NyesW4UyFQIDtXo-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Hlz47NyesW4UyFQIDtXo-259">
+        <mxCell id="Hlz47NyesW4UyFQIDtXo-251" edge="1" parent="Hlz47NyesW4UyFQIDtXo-236" source="Hlz47NyesW4UyFQIDtXo-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="Hlz47NyesW4UyFQIDtXo-255">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hlz47NyesW4UyFQIDtXo-252" parent="Hlz47NyesW4UyFQIDtXo-236" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Atvaizduojama varnelė prie mygtuko „Leisti keisti zonos ir kliūčių tipą&quot;" vertex="1">
-          <mxGeometry height="32" width="210" x="10" y="357.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Hlz47NyesW4UyFQIDtXo-253" edge="1" parent="Hlz47NyesW4UyFQIDtXo-236" source="Hlz47NyesW4UyFQIDtXo-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Hlz47NyesW4UyFQIDtXo-262">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="32" width="210" x="10" y="298" as="geometry" />
         </mxCell>
         <mxCell id="Hlz47NyesW4UyFQIDtXo-254" parent="Hlz47NyesW4UyFQIDtXo-236" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Pašalinama varnelė prie mygtuko „Leisti keisti zonos ir kliūčių tipą&quot;" vertex="1">
-          <mxGeometry height="32" width="210" x="10" y="797.5" as="geometry" />
+          <mxGeometry height="32" width="210" x="10" y="736" as="geometry" />
         </mxCell>
-        <mxCell id="Hlz47NyesW4UyFQIDtXo-255" parent="Hlz47NyesW4UyFQIDtXo-236" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Atvaizduojami zonos ir kliūčių tipo keitimo mygtukai" vertex="1">
-          <mxGeometry height="30" width="200" x="15" y="297.5" as="geometry" />
+        <mxCell id="Hlz47NyesW4UyFQIDtXo-255" parent="Hlz47NyesW4UyFQIDtXo-236" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Atvaizduojamas objekto tipo keitimo mygtukas" vertex="1">
+          <mxGeometry height="30" width="200" x="15" y="356" as="geometry" />
         </mxCell>
         <mxCell id="Hlz47NyesW4UyFQIDtXo-256" edge="1" parent="Hlz47NyesW4UyFQIDtXo-236" source="Hlz47NyesW4UyFQIDtXo-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-16;entryPerimeter=0;" target="Hlz47NyesW4UyFQIDtXo-248">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hlz47NyesW4UyFQIDtXo-257" edge="1" parent="Hlz47NyesW4UyFQIDtXo-236" source="Hlz47NyesW4UyFQIDtXo-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="Hlz47NyesW4UyFQIDtXo-255">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Hlz47NyesW4UyFQIDtXo-257" edge="1" parent="Hlz47NyesW4UyFQIDtXo-236" source="Hlz47NyesW4UyFQIDtXo-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-16;entryPerimeter=0;" target="Hlz47NyesW4UyFQIDtXo-252">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="138" y="286" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Hlz47NyesW4UyFQIDtXo-258" edge="1" parent="Hlz47NyesW4UyFQIDtXo-236" source="Hlz47NyesW4UyFQIDtXo-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-16;entryPerimeter=0;" target="Hlz47NyesW4UyFQIDtXo-252">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Hlz47NyesW4UyFQIDtXo-258" edge="1" parent="Hlz47NyesW4UyFQIDtXo-236" source="Hlz47NyesW4UyFQIDtXo-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Hlz47NyesW4UyFQIDtXo-259">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="159" y="347" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hlz47NyesW4UyFQIDtXo-259" parent="Hlz47NyesW4UyFQIDtXo-236" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="100" y="417.5" as="geometry" />
@@ -7364,21 +7365,20 @@
             <mxPoint x="140" y="667.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hlz47NyesW4UyFQIDtXo-261" edge="1" parent="Hlz47NyesW4UyFQIDtXo-236" source="Hlz47NyesW4UyFQIDtXo-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="Hlz47NyesW4UyFQIDtXo-263">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="145" y="727.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Hlz47NyesW4UyFQIDtXo-262" parent="Hlz47NyesW4UyFQIDtXo-236" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="100" y="857.5" as="geometry" />
         </mxCell>
-        <mxCell id="Hlz47NyesW4UyFQIDtXo-263" parent="Hlz47NyesW4UyFQIDtXo-236" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Paslepiami zonos ir kliūčių tipo keitimo mygtukai" vertex="1">
-          <mxGeometry height="30" width="200" x="15" y="737.5" as="geometry" />
+        <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-3" edge="1" parent="Hlz47NyesW4UyFQIDtXo-236" source="Hlz47NyesW4UyFQIDtXo-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Hlz47NyesW4UyFQIDtXo-262">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hlz47NyesW4UyFQIDtXo-264" edge="1" parent="Hlz47NyesW4UyFQIDtXo-236" source="Hlz47NyesW4UyFQIDtXo-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-16;entryPerimeter=0;" target="Hlz47NyesW4UyFQIDtXo-254">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="787.5" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Hlz47NyesW4UyFQIDtXo-263" parent="Hlz47NyesW4UyFQIDtXo-236" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Paslepiamas objekto tipo keitimo mygtukas" vertex="1">
+          <mxGeometry height="30" width="200" x="15" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-1" edge="1" parent="Hlz47NyesW4UyFQIDtXo-236" source="Hlz47NyesW4UyFQIDtXo-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-16;entryPerimeter=0;" target="Hlz47NyesW4UyFQIDtXo-254">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-2" edge="1" parent="Hlz47NyesW4UyFQIDtXo-236" source="Hlz47NyesW4UyFQIDtXo-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="Hlz47NyesW4UyFQIDtXo-263">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hlz47NyesW4UyFQIDtXo-265" edge="1" parent="Hlz47NyesW4UyFQIDtXo-228" source="Hlz47NyesW4UyFQIDtXo-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="Hlz47NyesW4UyFQIDtXo-235">
           <mxGeometry relative="1" as="geometry" />
