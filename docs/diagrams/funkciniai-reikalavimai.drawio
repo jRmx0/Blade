@@ -7938,7 +7938,7 @@
         <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-55" parent="Kgqs0gVv5b_tcnUfuHjJ-53" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="40" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-81" parent="Kgqs0gVv5b_tcnUfuHjJ-53" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Spaudžia žymėjimo&amp;nbsp;mygtuką „Leisti keisti zonos ir kliūčių tipą&quot;" vertex="1">
+        <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-81" parent="Kgqs0gVv5b_tcnUfuHjJ-53" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Spaudžia žymėjimo&amp;nbsp;mygtuką „Globalus tipas&quot;" vertex="1">
           <mxGeometry height="30" width="200" x="176.5" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-60" parent="Kgqs0gVv5b_tcnUfuHjJ-52" style="swimlane;startSize=20;horizontal=0;html=1;" value="Sistema" vertex="1">
@@ -7947,7 +7947,7 @@
         <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-82" parent="Kgqs0gVv5b_tcnUfuHjJ-60" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" value="" vertex="1">
           <mxGeometry height="35" width="53" x="250" y="28" as="geometry" />
         </mxCell>
-        <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-83" parent="Kgqs0gVv5b_tcnUfuHjJ-60" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Leidžiama keisti objektų tipą?" vertex="1">
+        <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-83" parent="Kgqs0gVv5b_tcnUfuHjJ-60" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Globalus tipas?" vertex="1">
           <mxGeometry height="30" width="80" x="236.5" y="72" as="geometry" />
         </mxCell>
         <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-84" parent="Kgqs0gVv5b_tcnUfuHjJ-60" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Įjungiamas globalus tipas" vertex="1">
@@ -8013,8 +8013,18 @@
         <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-102" edge="1" parent="Kgqs0gVv5b_tcnUfuHjJ-60" source="Kgqs0gVv5b_tcnUfuHjJ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="Kgqs0gVv5b_tcnUfuHjJ-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-105" connectable="0" parent="Kgqs0gVv5b_tcnUfuHjJ-102" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;Taip&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="-0.4361" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-103" edge="1" parent="Kgqs0gVv5b_tcnUfuHjJ-60" source="Kgqs0gVv5b_tcnUfuHjJ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="Kgqs0gVv5b_tcnUfuHjJ-93">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-106" connectable="0" parent="Kgqs0gVv5b_tcnUfuHjJ-103" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;Ne&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="-0.412" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-104" edge="1" parent="Kgqs0gVv5b_tcnUfuHjJ-52" source="Kgqs0gVv5b_tcnUfuHjJ-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Kgqs0gVv5b_tcnUfuHjJ-82">
           <mxGeometry relative="1" as="geometry" />
