@@ -7959,7 +7959,7 @@
         <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-86" edge="1" parent="Kgqs0gVv5b_tcnUfuHjJ-60" source="Kgqs0gVv5b_tcnUfuHjJ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=16;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="Kgqs0gVv5b_tcnUfuHjJ-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-87" parent="Kgqs0gVv5b_tcnUfuHjJ-60" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Atvaizduojama varnelė prie mygtuko „Leisti keisti zonos ir kliūčių tipą&quot;" vertex="1">
+        <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-87" parent="Kgqs0gVv5b_tcnUfuHjJ-60" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Atvaizduojama varnelė prie mygtuko „Globalus tipas&quot;" vertex="1">
           <mxGeometry height="32" width="210" x="35" y="241.5" as="geometry" />
         </mxCell>
         <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-88" parent="Kgqs0gVv5b_tcnUfuHjJ-60" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Aktyvuojamas objekto tipo keitimo mygtukas" vertex="1">
@@ -7987,7 +7987,7 @@
         <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-94" parent="Kgqs0gVv5b_tcnUfuHjJ-60" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Vykdomas funkcinis reikalavimas „Įrašyti aplinkos duomenis“" vertex="1">
           <mxGeometry height="32" width="210" x="325" y="181" as="geometry" />
         </mxCell>
-        <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-95" parent="Kgqs0gVv5b_tcnUfuHjJ-60" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Pašalinama varnelė prie mygtuko „Leisti keisti zonos ir kliūčių tipą&quot;" vertex="1">
+        <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-95" parent="Kgqs0gVv5b_tcnUfuHjJ-60" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Pašalinama varnelė prie mygtuko „Globalus tipas&quot;" vertex="1">
           <mxGeometry height="32" width="210" x="325" y="239.5" as="geometry" />
         </mxCell>
         <mxCell id="Kgqs0gVv5b_tcnUfuHjJ-96" edge="1" parent="Kgqs0gVv5b_tcnUfuHjJ-60" source="Kgqs0gVv5b_tcnUfuHjJ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-16;entryPerimeter=0;" target="Kgqs0gVv5b_tcnUfuHjJ-94">
