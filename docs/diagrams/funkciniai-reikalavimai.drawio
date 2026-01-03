@@ -4783,7 +4783,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B0lbLej3ud8RJkcUwHB2" name="CPP">
-    <mxGraphModel dx="1277" dy="804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="970" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5746,10 +5746,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-242" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Redaguoti ZPKP testavimo scenarijų" vertex="1">
-          <mxGeometry height="590" width="650" x="2911.6800000000003" y="680" as="geometry" />
+          <mxGeometry height="664" width="650" x="2911.6800000000003" y="680" as="geometry" />
         </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-243" parent="4BOuaLr5ELOMOHp2HOSX-242" style="swimlane;startSize=20;html=1;" value="Naudotojas" vertex="1">
-          <mxGeometry height="570" width="380" y="20" as="geometry">
+          <mxGeometry height="644" width="380" y="20" as="geometry">
             <mxRectangle height="580" width="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -5781,7 +5781,7 @@
           <mxGeometry height="30" width="200" x="90.12999999999985" y="330" as="geometry" />
         </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-253" parent="4BOuaLr5ELOMOHp2HOSX-243" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Spaudžia mygtuką „Išsaugoti“" vertex="1">
-          <mxGeometry height="30" width="140" x="119.85999999999974" y="400" as="geometry" />
+          <mxGeometry height="30" width="140" x="116.68999999999974" y="471" as="geometry" />
         </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-254" edge="1" parent="4BOuaLr5ELOMOHp2HOSX-243" source="4BOuaLr5ELOMOHp2HOSX-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4BOuaLr5ELOMOHp2HOSX-251">
           <mxGeometry relative="1" as="geometry" />
@@ -5803,6 +5803,9 @@
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-257" parent="4BOuaLr5ELOMOHp2HOSX-243" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="320" y="285" as="geometry" />
         </mxCell>
+        <mxCell id="AdwnUTuQXVS_be9xQuLg-20" edge="1" parent="4BOuaLr5ELOMOHp2HOSX-243" source="4BOuaLr5ELOMOHp2HOSX-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AdwnUTuQXVS_be9xQuLg-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-258" parent="4BOuaLr5ELOMOHp2HOSX-243" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="40" y="285" as="geometry" />
         </mxCell>
@@ -5812,16 +5815,30 @@
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-260" edge="1" parent="4BOuaLr5ELOMOHp2HOSX-243" source="4BOuaLr5ELOMOHp2HOSX-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4BOuaLr5ELOMOHp2HOSX-258">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4BOuaLr5ELOMOHp2HOSX-261" edge="1" parent="4BOuaLr5ELOMOHp2HOSX-243" source="4BOuaLr5ELOMOHp2HOSX-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="4BOuaLr5ELOMOHp2HOSX-253">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="20" y="295" />
-              <mxPoint x="20" y="415" />
-            </Array>
+        <mxCell id="AdwnUTuQXVS_be9xQuLg-21" edge="1" parent="4BOuaLr5ELOMOHp2HOSX-243" source="AdwnUTuQXVS_be9xQuLg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="4BOuaLr5ELOMOHp2HOSX-257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AdwnUTuQXVS_be9xQuLg-22" connectable="0" parent="AdwnUTuQXVS_be9xQuLg-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Taip" vertex="1">
+          <mxGeometry relative="1" x="-0.7604" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdwnUTuQXVS_be9xQuLg-18" parent="4BOuaLr5ELOMOHp2HOSX-243" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" value="" vertex="1">
+          <mxGeometry height="35" width="53" x="160.1899999999996" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="AdwnUTuQXVS_be9xQuLg-19" parent="4BOuaLr5ELOMOHp2HOSX-243" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tęsti redagavima?" vertex="1">
+          <mxGeometry height="30" width="108.68" x="132.35" y="368" as="geometry" />
+        </mxCell>
+        <mxCell id="AdwnUTuQXVS_be9xQuLg-23" edge="1" parent="4BOuaLr5ELOMOHp2HOSX-243" source="AdwnUTuQXVS_be9xQuLg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="4BOuaLr5ELOMOHp2HOSX-253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AdwnUTuQXVS_be9xQuLg-24" connectable="0" parent="AdwnUTuQXVS_be9xQuLg-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ne" vertex="1">
+          <mxGeometry relative="1" x="-0.5694" y="-2" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-262" parent="4BOuaLr5ELOMOHp2HOSX-242" style="swimlane;startSize=20;html=1;" value="Sistema" vertex="1">
-          <mxGeometry height="570" width="270" x="380" y="20" as="geometry">
+          <mxGeometry height="644" width="270" x="380" y="20" as="geometry">
             <mxRectangle height="580" width="40" x="290" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -5832,16 +5849,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-265" parent="4BOuaLr5ELOMOHp2HOSX-262" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Scenarijus išsaugomas duomenų bazėje" vertex="1">
-          <mxGeometry height="30" width="200" x="35" y="400" as="geometry" />
+          <mxGeometry height="30" width="200" x="35" y="471" as="geometry" />
         </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-266" edge="1" parent="4BOuaLr5ELOMOHp2HOSX-262" source="4BOuaLr5ELOMOHp2HOSX-267" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4BOuaLr5ELOMOHp2HOSX-268">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-267" parent="4BOuaLr5ELOMOHp2HOSX-262" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Atvaizduojamas ZPKP testavimo&amp;nbsp; langas" vertex="1">
-          <mxGeometry height="30" width="200" x="35" y="460" as="geometry" />
+          <mxGeometry height="30" width="200" x="35" y="531" as="geometry" />
         </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-268" parent="4BOuaLr5ELOMOHp2HOSX-262" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="120" y="520" as="geometry" />
+          <mxGeometry height="30" width="30" x="120" y="591" as="geometry" />
         </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-269" edge="1" parent="4BOuaLr5ELOMOHp2HOSX-242" source="4BOuaLr5ELOMOHp2HOSX-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4BOuaLr5ELOMOHp2HOSX-263">
           <mxGeometry relative="1" as="geometry" />
