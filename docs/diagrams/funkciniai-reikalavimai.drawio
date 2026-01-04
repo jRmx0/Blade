@@ -4783,7 +4783,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B0lbLej3ud8RJkcUwHB2" name="CPP">
-    <mxGraphModel dx="1155" dy="728" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1011" dy="637" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5965,10 +5965,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-323" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Vykdyti ZPKP testavimą" vertex="1">
-          <mxGeometry height="650" width="590" x="1384.5" y="3450" as="geometry" />
+          <mxGeometry height="583" width="590" x="1384.5" y="3450" as="geometry" />
         </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-324" parent="4BOuaLr5ELOMOHp2HOSX-323" style="swimlane;startSize=20;html=1;" value="Naudotojas" vertex="1">
-          <mxGeometry height="630" width="250" y="20" as="geometry">
+          <mxGeometry height="563" width="250" y="20" as="geometry">
             <mxRectangle height="580" width="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -5991,7 +5991,7 @@
           <mxGeometry height="30" width="200" x="20" y="290" as="geometry" />
         </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-331" parent="4BOuaLr5ELOMOHp2HOSX-323" style="swimlane;startSize=20;html=1;" value="Sistema" vertex="1">
-          <mxGeometry height="630" width="340" x="250" y="20" as="geometry">
+          <mxGeometry height="563" width="340" x="250" y="20" as="geometry">
             <mxRectangle height="580" width="40" x="290" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -6028,20 +6028,14 @@
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-339" parent="4BOuaLr5ELOMOHp2HOSX-331" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Vykdomas funkcinis reikalavimas „Kurti ZPKP testavimo scenarijus“" vertex="1">
           <mxGeometry height="30" width="200" x="35" y="229" as="geometry" />
         </mxCell>
-        <mxCell id="4BOuaLr5ELOMOHp2HOSX-340" edge="1" parent="4BOuaLr5ELOMOHp2HOSX-331" source="4BOuaLr5ELOMOHp2HOSX-341" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4BOuaLr5ELOMOHp2HOSX-343">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4BOuaLr5ELOMOHp2HOSX-341" parent="4BOuaLr5ELOMOHp2HOSX-331" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Atvaizduojamas gautas zonos padengimo kelio maršrutas" vertex="1">
-          <mxGeometry height="30" width="170" x="50" y="425" as="geometry" />
-        </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-342" edge="1" parent="4BOuaLr5ELOMOHp2HOSX-331" source="4BOuaLr5ELOMOHp2HOSX-343" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4BOuaLr5ELOMOHp2HOSX-344">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-343" parent="4BOuaLr5ELOMOHp2HOSX-331" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Vykdomas funkcinis reikalavimas „Atvaizduoti ZPKP rezultatus“" vertex="1">
-          <mxGeometry height="30" width="188.5" x="40.75" y="480" as="geometry" />
+          <mxGeometry height="30" width="188.5" x="40.75" y="436" as="geometry" />
         </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-344" parent="4BOuaLr5ELOMOHp2HOSX-331" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="120" y="540" as="geometry" />
+          <mxGeometry height="30" width="30" x="120" y="509" as="geometry" />
         </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-345" edge="1" parent="4BOuaLr5ELOMOHp2HOSX-331" source="4BOuaLr5ELOMOHp2HOSX-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4BOuaLr5ELOMOHp2HOSX-351">
           <mxGeometry relative="1" as="geometry" />
@@ -6049,8 +6043,10 @@
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-346" parent="4BOuaLr5ELOMOHp2HOSX-331" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Vykdomas funkcinis reikalavimas „Vykdyti ZPKP“" vertex="1">
           <mxGeometry height="30" width="188.5" x="40.75" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="4BOuaLr5ELOMOHp2HOSX-347" edge="1" parent="4BOuaLr5ELOMOHp2HOSX-331" source="4BOuaLr5ELOMOHp2HOSX-351" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4BOuaLr5ELOMOHp2HOSX-341">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4BOuaLr5ELOMOHp2HOSX-347" edge="1" parent="4BOuaLr5ELOMOHp2HOSX-331" source="4BOuaLr5ELOMOHp2HOSX-351" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="4BOuaLr5ELOMOHp2HOSX-343">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="425" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4BOuaLr5ELOMOHp2HOSX-348" connectable="0" parent="4BOuaLr5ELOMOHp2HOSX-347" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Taip" vertex="1">
           <mxGeometry relative="1" x="-0.374" as="geometry">
