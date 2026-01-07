@@ -8370,7 +8370,7 @@
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UPJQ0lhvze8PaXALtW4i-66" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="Testavimo parametrai" vertex="1">
+        <mxCell id="UPJQ0lhvze8PaXALtW4i-66" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="Algoritmo parametrai" vertex="1">
           <mxGeometry height="180" width="188" x="220" y="130" as="geometry" />
         </mxCell>
         <mxCell id="UPJQ0lhvze8PaXALtW4i-67" parent="UPJQ0lhvze8PaXALtW4i-66" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
@@ -8443,9 +8443,6 @@
             <mxPoint x="128" as="sourcePoint" />
             <mxPoint x="120" y="170" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="UPJQ0lhvze8PaXALtW4i-84" edge="1" parent="1" source="UPJQ0lhvze8PaXALtW4i-79" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERone;endFill=0;startArrow=ERmany;startFill=0;" target="UPJQ0lhvze8PaXALtW4i-54">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UPJQ0lhvze8PaXALtW4i-85" edge="1" parent="1" source="UPJQ0lhvze8PaXALtW4i-57" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" target="UPJQ0lhvze8PaXALtW4i-41">
           <mxGeometry relative="1" as="geometry" />
@@ -8673,6 +8670,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UPJQ0lhvze8PaXALtW4i-189" edge="1" parent="1" source="UPJQ0lhvze8PaXALtW4i-182" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERone;endFill=0;startArrow=ERmany;startFill=0;" target="UPJQ0lhvze8PaXALtW4i-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UPJQ0lhvze8PaXALtW4i-84" edge="1" parent="1" source="UPJQ0lhvze8PaXALtW4i-54" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERone;endFill=0;startArrow=ERmany;startFill=0;" target="UPJQ0lhvze8PaXALtW4i-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
