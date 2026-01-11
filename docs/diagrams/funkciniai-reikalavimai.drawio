@@ -8786,7 +8786,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Pn9SCHvwKf1xjn__CBXB" name="Wireframe">
-    <mxGraphModel dx="2022" dy="1217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1617" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8961,22 +8961,12 @@
         <mxCell id="JqmQoldcccz7iGvPwIUa-100" parent="JqmQoldcccz7iGvPwIUa-7" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" value="Ląstelės" vertex="1">
           <mxGeometry height="15" width="15" x="20" y="570" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M200-200h57l391-391-57-57-391 391v57Zm-80 80v-170l528-527q12-11 26.5-17t30.5-6q16 0 31 6t26 18l55 56q12 11 17.5 26t5.5 30q0 16-5.5 30.5T817-647L290-120H120Zm640-584-56-56 56 56Zm-141 85-28-29 57 57-29-28Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" link="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M200-200h57l391-391-57-57-391 391v57Zm-80 80v-170l528-527q12-11 26.5-17t30.5-6q16 0 31 6t26 18l55 56q12 11 17.5 26t5.5 30q0 16-5.5 30.5T817-647L290-120H120Zm640-584-56-56 56 56Zm-141 85-28-29 57 57-29-28Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" id="JqmQoldcccz7iGvPwIUa-109">
-          <mxCell parent="JqmQoldcccz7iGvPwIUa-7" style="text;whiteSpace=wrap;html=1;" vertex="1">
-            <mxGeometry height="10" width="10" x="190" y="560" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="JqmQoldcccz7iGvPwIUa-56" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#666666,#EDEDED);" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;Suskleistas skirtukas&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="220" x="20" y="600" as="geometry" />
         </mxCell>
         <mxCell id="JqmQoldcccz7iGvPwIUa-111" parent="JqmQoldcccz7iGvPwIUa-7" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;" value="" vertex="1">
           <mxGeometry height="20" width="220" x="10" y="590" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M480-360 280-560h400L480-360Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" link="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M480-360 280-560h400L480-360Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" id="JqmQoldcccz7iGvPwIUa-57">
-          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;rotation=270;" vertex="1">
-            <mxGeometry height="8.75" width="8.75" x="1800" y="390" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M480-360 280-560h400L480-360Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" link="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M480-360 280-560h400L480-360Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" id="JqmQoldcccz7iGvPwIUa-110">
           <mxCell parent="1" style="text;whiteSpace=wrap;html=1;rotation=270;" vertex="1">
             <mxGeometry height="8.75" width="8.75" x="2145" y="705" as="geometry" />
