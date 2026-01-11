@@ -9109,6 +9109,19 @@
         <mxCell id="SVg7OvQLAb2lxiUBqT6i-25" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Kliūtis&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="58" x="310" y="598" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h168q13-36 43.5-58t68.5-22q38 0 68.5 22t43.5 58h168q33 0 56.5 23.5T840-760v560q0 33-23.5 56.5T760-120H200Zm0-80h560v-560H200v560Zm80-80h280v-80H280v80Zm0-160h400v-80H280v80Zm0-160h400v-80H280v80Zm200-190q13 0 21.5-8.5T510-820q0-13-8.5-21.5T480-850q-13 0-21.5 8.5T450-820q0 13 8.5 21.5T480-790ZM200-200v-560 560Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" link="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h168q13-36 43.5-58t68.5-22q38 0 68.5 22t43.5 58h168q33 0 56.5 23.5T840-760v560q0 33-23.5 56.5T760-120H200Zm0-80h560v-560H200v560Zm80-80h280v-80H280v80Zm0-160h400v-80H280v80Zm0-160h400v-80H280v80Zm200-190q13 0 21.5-8.5T510-820q0-13-8.5-21.5T480-850q-13 0-21.5 8.5T450-820q0 13 8.5 21.5T480-790ZM200-200v-560 560Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" id="SVg7OvQLAb2lxiUBqT6i-129">
+          <mxCell parent="JqmQoldcccz7iGvPwIUa-7" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="30" x="380" y="65" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M280-280h80v-200h-80v200Zm320 0h80v-400h-80v400Zm-160 0h80v-120h-80v120Zm0-200h80v-80h-80v80ZM200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h560q33 0 56.5 23.5T840-760v560q0 33-23.5 56.5T760-120H200Zm0-80h560v-560H200v560Zm0-560v560-560Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" link="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M280-280h80v-200h-80v200Zm320 0h80v-400h-80v400Zm-160 0h80v-120h-80v120Zm0-200h80v-80h-80v80ZM200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h560q33 0 56.5 23.5T840-760v560q0 33-23.5 56.5T760-120H200Zm0-80h560v-560H200v560Zm0-560v560-560Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" id="SVg7OvQLAb2lxiUBqT6i-130">
+          <mxCell parent="JqmQoldcccz7iGvPwIUa-7" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="30" x="410" y="65" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="SVg7OvQLAb2lxiUBqT6i-131" parent="JqmQoldcccz7iGvPwIUa-7" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;direction=north;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="440" y="75" as="geometry" />
+        </mxCell>
         <mxCell id="SVg7OvQLAb2lxiUBqT6i-26" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=0;fontColor=#666666;strokeColor=#666666;" value="" vertex="1">
           <mxGeometry height="660" width="990" x="3450" y="80" as="geometry">
             <mxRectangle height="40" width="140" x="2030" y="110" as="alternateBounds" />
@@ -9425,17 +9438,17 @@
             <mxPoint x="380" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SVg7OvQLAb2lxiUBqT6i-119" parent="SVg7OvQLAb2lxiUBqT6i-26" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#CC0000;fontSize=15;" value="Pridėti &lt;br&gt;naują zoną" vertex="1">
+        <mxCell id="SVg7OvQLAb2lxiUBqT6i-119" parent="SVg7OvQLAb2lxiUBqT6i-26" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#CC0000;fontSize=15;" value="&lt;b&gt;Pridėti &lt;br&gt;naują zoną&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="100" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="SVg7OvQLAb2lxiUBqT6i-120" parent="SVg7OvQLAb2lxiUBqT6i-26" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#CC0000;fontSize=15;" value="Pridėti &lt;br&gt;naują kliūtį" vertex="1">
-          <mxGeometry height="50" width="90" x="260" y="140" as="geometry" />
+        <mxCell id="SVg7OvQLAb2lxiUBqT6i-120" parent="SVg7OvQLAb2lxiUBqT6i-26" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#CC0000;fontSize=15;" value="&lt;b&gt;Pridėti &lt;br&gt;naują kliūtį&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="215" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="SVg7OvQLAb2lxiUBqT6i-121" parent="SVg7OvQLAb2lxiUBqT6i-26" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#CC0000;fontSize=15;" value="Inicijuoti &lt;br&gt;ZPKP" vertex="1">
-          <mxGeometry height="50" width="80" x="340" as="geometry" />
+        <mxCell id="SVg7OvQLAb2lxiUBqT6i-121" parent="SVg7OvQLAb2lxiUBqT6i-26" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#CC0000;fontSize=15;" value="&lt;b&gt;Inicijuoti &lt;br&gt;ZPKP&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="290" as="geometry" />
         </mxCell>
-        <mxCell id="SVg7OvQLAb2lxiUBqT6i-122" parent="SVg7OvQLAb2lxiUBqT6i-26" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#CC0000;fontSize=15;" value="Išvalyti &lt;br&gt;aplinkos &lt;br&gt;rezultatus" vertex="1">
-          <mxGeometry height="70" width="90" x="410" as="geometry" />
+        <mxCell id="SVg7OvQLAb2lxiUBqT6i-122" parent="SVg7OvQLAb2lxiUBqT6i-26" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#CC0000;fontSize=15;" value="&lt;b&gt;Išvalyti &lt;br&gt;aplinkos &lt;br&gt;rezultatus&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="90" x="362" y="-10" as="geometry" />
         </mxCell>
         <mxCell id="SVg7OvQLAb2lxiUBqT6i-123" edge="1" parent="SVg7OvQLAb2lxiUBqT6i-26" source="SVg7OvQLAb2lxiUBqT6i-56" style="endArrow=none;html=1;rounded=0;fontColor=#CC0000;strokeColor=#CC0000;strokeWidth=2;" target="SVg7OvQLAb2lxiUBqT6i-120" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -9455,13 +9468,44 @@
             <mxPoint x="468" y="29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SVg7OvQLAb2lxiUBqT6i-126" parent="SVg7OvQLAb2lxiUBqT6i-26" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#CC0000;fontSize=15;" value="Įjungti &lt;br&gt;šalinimo&lt;br&gt;režimą" vertex="1">
-          <mxGeometry height="70" width="80" x="368" y="130" as="geometry" />
+        <mxCell id="SVg7OvQLAb2lxiUBqT6i-126" parent="SVg7OvQLAb2lxiUBqT6i-26" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#CC0000;fontSize=15;" value="&lt;b&gt;Įjungti &lt;br&gt;šalinimo&lt;br&gt;režimą&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="80" x="315" y="130" as="geometry" />
         </mxCell>
         <mxCell id="SVg7OvQLAb2lxiUBqT6i-127" edge="1" parent="SVg7OvQLAb2lxiUBqT6i-26" source="SVg7OvQLAb2lxiUBqT6i-39" style="endArrow=none;html=1;rounded=0;fontColor=#CC0000;strokeColor=#CC0000;strokeWidth=2;" target="SVg7OvQLAb2lxiUBqT6i-126" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="440" y="152" as="sourcePoint" />
             <mxPoint x="490" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h168q13-36 43.5-58t68.5-22q38 0 68.5 22t43.5 58h168q33 0 56.5 23.5T840-760v560q0 33-23.5 56.5T760-120H200Zm0-80h560v-560H200v560Zm80-80h280v-80H280v80Zm0-160h400v-80H280v80Zm0-160h400v-80H280v80Zm200-190q13 0 21.5-8.5T510-820q0-13-8.5-21.5T480-850q-13 0-21.5 8.5T450-820q0 13 8.5 21.5T480-790ZM200-200v-560 560Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" link="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h168q13-36 43.5-58t68.5-22q38 0 68.5 22t43.5 58h168q33 0 56.5 23.5T840-760v560q0 33-23.5 56.5T760-120H200Zm0-80h560v-560H200v560Zm80-80h280v-80H280v80Zm0-160h400v-80H280v80Zm0-160h400v-80H280v80Zm200-190q13 0 21.5-8.5T510-820q0-13-8.5-21.5T480-850q-13 0-21.5 8.5T450-820q0 13 8.5 21.5T480-790ZM200-200v-560 560Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" id="SVg7OvQLAb2lxiUBqT6i-132">
+          <mxCell parent="SVg7OvQLAb2lxiUBqT6i-26" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="30" x="380" y="65" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M280-280h80v-200h-80v200Zm320 0h80v-400h-80v400Zm-160 0h80v-120h-80v120Zm0-200h80v-80h-80v80ZM200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h560q33 0 56.5 23.5T840-760v560q0 33-23.5 56.5T760-120H200Zm0-80h560v-560H200v560Zm0-560v560-560Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" link="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M280-280h80v-200h-80v200Zm320 0h80v-400h-80v400Zm-160 0h80v-120h-80v120Zm0-200h80v-80h-80v80ZM200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h560q33 0 56.5 23.5T840-760v560q0 33-23.5 56.5T760-120H200Zm0-80h560v-560H200v560Zm0-560v560-560Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" id="SVg7OvQLAb2lxiUBqT6i-133">
+          <mxCell parent="SVg7OvQLAb2lxiUBqT6i-26" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="30" x="410" y="65" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="SVg7OvQLAb2lxiUBqT6i-134" parent="SVg7OvQLAb2lxiUBqT6i-26" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;direction=north;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="440" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="SVg7OvQLAb2lxiUBqT6i-135" parent="SVg7OvQLAb2lxiUBqT6i-26" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#CC0000;fontSize=15;" value="&lt;b&gt;Atidaryti &lt;br&gt;testavimo &lt;br&gt;sąrašą&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="90" x="395" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="SVg7OvQLAb2lxiUBqT6i-136" parent="SVg7OvQLAb2lxiUBqT6i-26" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#CC0000;fontSize=15;" value="&lt;b&gt;Atidaryti&lt;br&gt;testavimo&lt;br&gt;rezultatus&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="90" x="479" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="SVg7OvQLAb2lxiUBqT6i-137" edge="1" parent="SVg7OvQLAb2lxiUBqT6i-26" source="SVg7OvQLAb2lxiUBqT6i-132" style="endArrow=none;html=1;rounded=0;fontColor=#CC0000;strokeColor=#CC0000;strokeWidth=2;" target="SVg7OvQLAb2lxiUBqT6i-135" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="39" as="sourcePoint" />
+            <mxPoint x="509" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVg7OvQLAb2lxiUBqT6i-138" edge="1" parent="SVg7OvQLAb2lxiUBqT6i-26" source="SVg7OvQLAb2lxiUBqT6i-133" style="endArrow=none;html=1;rounded=0;fontColor=#CC0000;strokeColor=#CC0000;strokeWidth=2;" target="SVg7OvQLAb2lxiUBqT6i-136" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="49" as="sourcePoint" />
+            <mxPoint x="519" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
