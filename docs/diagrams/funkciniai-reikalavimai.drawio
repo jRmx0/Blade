@@ -8786,7 +8786,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Pn9SCHvwKf1xjn__CBXB" name="Wireframe">
-    <mxGraphModel dx="1516" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1866" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8878,9 +8878,9 @@
           <mxGeometry height="560" width="10" x="250" y="100" as="geometry" />
         </mxCell>
         <mxCell id="JqmQoldcccz7iGvPwIUa-41" parent="JqmQoldcccz7iGvPwIUa-7" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.splitter;strokeColor=#999999;direction=north;" value="" vertex="1">
-          <mxGeometry height="560" width="10" x="720" y="100" as="geometry" />
+          <mxGeometry height="560" width="10" x="700" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="JqmQoldcccz7iGvPwIUa-42" parent="JqmQoldcccz7iGvPwIUa-7" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=26.464;fillColor2=#99ddff;strokeColor2=none;direction=north;" value="" vertex="1">
+        <mxCell id="JqmQoldcccz7iGvPwIUa-42" parent="JqmQoldcccz7iGvPwIUa-7" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=81.421;fillColor2=#99ddff;strokeColor2=none;direction=north;" value="" vertex="1">
           <mxGeometry height="560" width="20" x="230" y="100" as="geometry" />
         </mxCell>
         <mxCell id="JqmQoldcccz7iGvPwIUa-59" parent="JqmQoldcccz7iGvPwIUa-7" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" value="Globalus tipas" vertex="1">
@@ -8947,25 +8947,8 @@
             <mxGeometry height="10" width="10" x="10" y="410" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="JqmQoldcccz7iGvPwIUa-97" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#666666,#EDEDED);" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;Tarpiniai skaičiavimai&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="220" x="20" y="530" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M480-360 280-560h400L480-360Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" link="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M480-360 280-560h400L480-360Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" id="JqmQoldcccz7iGvPwIUa-98">
-          <mxCell parent="JqmQoldcccz7iGvPwIUa-7" style="text;whiteSpace=wrap;html=1;rotation=0;" vertex="1">
-            <mxGeometry height="10" width="10" y="530" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="JqmQoldcccz7iGvPwIUa-99" parent="JqmQoldcccz7iGvPwIUa-7" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;" value="" vertex="1">
           <mxGeometry height="20" width="220" x="10" y="519" as="geometry" />
-        </mxCell>
-        <mxCell id="JqmQoldcccz7iGvPwIUa-100" parent="JqmQoldcccz7iGvPwIUa-7" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" value="Ląstelės" vertex="1">
-          <mxGeometry height="15" width="15" x="20" y="570" as="geometry" />
-        </mxCell>
-        <mxCell id="JqmQoldcccz7iGvPwIUa-56" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#666666,#EDEDED);" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;Suskleistas skirtukas&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="220" x="20" y="600" as="geometry" />
-        </mxCell>
-        <mxCell id="JqmQoldcccz7iGvPwIUa-111" parent="JqmQoldcccz7iGvPwIUa-7" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;" value="" vertex="1">
-          <mxGeometry height="20" width="220" x="10" y="590" as="geometry" />
         </mxCell>
         <UserObject label="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;m400-320 240-160-240-160v320Zm80 240q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-43 9-84.5t26-80.5l62 62q-8 26-12.5 51.5T160-480q0 134 93 227t227 93q134 0 227-93t93-227q0-134-93-227t-227-93q-27 0-52.5 4.5T377-783l-61-61q40-18 80-27t84-9q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80ZM220-680q-25 0-42.5-17.5T160-740q0-25 17.5-42.5T220-800q25 0 42.5 17.5T280-740q0 25-17.5 42.5T220-680Zm260 200Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" link="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;m400-320 240-160-240-160v320Zm80 240q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-43 9-84.5t26-80.5l62 62q-8 26-12.5 51.5T160-480q0 134 93 227t227 93q134 0 227-93t93-227q0-134-93-227t-227-93q-27 0-52.5 4.5T377-783l-61-61q40-18 80-27t84-9q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80ZM220-680q-25 0-42.5-17.5T160-740q0-25 17.5-42.5T220-800q25 0 42.5 17.5T280-740q0 25-17.5 42.5T220-680Zm260 200Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" id="JqmQoldcccz7iGvPwIUa-118">
           <mxCell parent="JqmQoldcccz7iGvPwIUa-7" style="text;whiteSpace=wrap;html=1;" vertex="1">
@@ -8987,79 +8970,94 @@
           <mxGeometry height="20" width="80" x="270" y="110" as="geometry" />
         </mxCell>
         <mxCell id="eU86lab0iRf6McP6Fa88-8" parent="JqmQoldcccz7iGvPwIUa-7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;font style=&quot;color: rgb(102, 102, 102);&quot;&gt;ℹ️ Informacinis pranešimas&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="160" x="550" y="110" as="geometry" />
+          <mxGeometry height="20" width="160" x="530" y="110" as="geometry" />
         </mxCell>
         <mxCell id="eU86lab0iRf6McP6Fa88-9" parent="JqmQoldcccz7iGvPwIUa-7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;font style=&quot;color: rgb(102, 102, 102);&quot;&gt;⚠️ Klaidos pranešimas&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="140" x="570" y="140" as="geometry" />
+          <mxGeometry height="20" width="140" x="550" y="140" as="geometry" />
         </mxCell>
         <mxCell id="JqmQoldcccz7iGvPwIUa-124" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#666666,#EDEDED);" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Aplinka&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="80" x="740" y="110" as="geometry" />
+          <mxGeometry height="30" width="80" x="720" y="110" as="geometry" />
         </mxCell>
         <mxCell id="JqmQoldcccz7iGvPwIUa-129" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Zonų skaičius&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="740" y="140" as="geometry" />
+          <mxGeometry height="30" width="120" x="720" y="140" as="geometry" />
         </mxCell>
         <mxCell id="JqmQoldcccz7iGvPwIUa-130" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;1&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="30" x="950" y="140" as="geometry" />
+          <mxGeometry height="30" width="30" x="930" y="140" as="geometry" />
         </mxCell>
         <mxCell id="JqmQoldcccz7iGvPwIUa-131" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Kliūčių skaičius&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="740" y="170" as="geometry" />
+          <mxGeometry height="30" width="130" x="720" y="170" as="geometry" />
         </mxCell>
         <mxCell id="JqmQoldcccz7iGvPwIUa-132" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;5&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="30" x="950" y="170" as="geometry" />
+          <mxGeometry height="30" width="30" x="930" y="170" as="geometry" />
         </mxCell>
         <mxCell id="JqmQoldcccz7iGvPwIUa-133" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#666666,#EDEDED);" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Objektas&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="100" x="740" y="210" as="geometry" />
+          <mxGeometry height="30" width="100" x="720" y="210" as="geometry" />
         </mxCell>
         <mxCell id="JqmQoldcccz7iGvPwIUa-134" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Kategorija&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="740" y="240" as="geometry" />
+          <mxGeometry height="30" width="90" x="720" y="240" as="geometry" />
         </mxCell>
         <mxCell id="JqmQoldcccz7iGvPwIUa-136" parent="JqmQoldcccz7iGvPwIUa-7" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Tipas&lt;/font&gt;" vertex="1">
-          <mxGeometry height="22" width="240" x="740" y="274" as="geometry" />
+          <mxGeometry height="22" width="240" x="720" y="274" as="geometry" />
         </mxCell>
         <mxCell id="JqmQoldcccz7iGvPwIUa-137" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Viršūnių skaičius&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="740" y="300" as="geometry" />
+          <mxGeometry height="30" width="130" x="720" y="300" as="geometry" />
         </mxCell>
         <mxCell id="JqmQoldcccz7iGvPwIUa-138" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Plotas&amp;nbsp;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="740" y="330" as="geometry" />
+          <mxGeometry height="30" width="70" x="720" y="330" as="geometry" />
         </mxCell>
         <mxCell id="eU86lab0iRf6McP6Fa88-1" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Naudingas plotas&amp;nbsp;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="740" y="360" as="geometry" />
+          <mxGeometry height="30" width="140" x="720" y="360" as="geometry" />
         </mxCell>
         <mxCell id="eU86lab0iRf6McP6Fa88-3" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;7&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="30" x="950" y="300" as="geometry" />
+          <mxGeometry height="30" width="30" x="930" y="300" as="geometry" />
         </mxCell>
         <mxCell id="eU86lab0iRf6McP6Fa88-4" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;10.5&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="930" y="330" as="geometry" />
+          <mxGeometry height="30" width="50" x="910" y="330" as="geometry" />
         </mxCell>
         <mxCell id="eU86lab0iRf6McP6Fa88-5" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;6.3&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="40" x="940" y="360" as="geometry" />
+          <mxGeometry height="30" width="40" x="920" y="360" as="geometry" />
         </mxCell>
         <mxCell id="eU86lab0iRf6McP6Fa88-6" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#666666,#EDEDED);" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Rezultatai&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="100" x="740" y="400" as="geometry" />
+          <mxGeometry height="30" width="100" x="720" y="400" as="geometry" />
         </mxCell>
         <mxCell id="8jBvmx6SuM7aobgHRqo8-1" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Zonos padengimas&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="740" y="430" as="geometry" />
+          <mxGeometry height="30" width="150" x="720" y="430" as="geometry" />
         </mxCell>
         <mxCell id="8jBvmx6SuM7aobgHRqo8-2" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Maršruto persidengimas&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="180" x="740" y="459" as="geometry" />
+          <mxGeometry height="30" width="180" x="720" y="459" as="geometry" />
         </mxCell>
         <mxCell id="SVg7OvQLAb2lxiUBqT6i-1" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Posūkių skaičius&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="740" y="489" as="geometry" />
+          <mxGeometry height="30" width="130" x="720" y="489" as="geometry" />
         </mxCell>
         <mxCell id="SVg7OvQLAb2lxiUBqT6i-3" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;8.87 %&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="910" y="460" as="geometry" />
+          <mxGeometry height="30" width="70" x="890" y="460" as="geometry" />
         </mxCell>
         <mxCell id="SVg7OvQLAb2lxiUBqT6i-4" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;14&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="40" x="940" y="489" as="geometry" />
+          <mxGeometry height="30" width="40" x="920" y="489" as="geometry" />
         </mxCell>
         <mxCell id="SVg7OvQLAb2lxiUBqT6i-2" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#666666;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;98.87 %&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="80" x="900" y="430" as="geometry" />
+          <mxGeometry height="30" width="80" x="880" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="SVg7OvQLAb2lxiUBqT6i-5" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#666666,#EDEDED);" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Tarpiniai skaičiavimai&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="720" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="SVg7OvQLAb2lxiUBqT6i-6" parent="JqmQoldcccz7iGvPwIUa-7" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" value="Ląstelės" vertex="1">
+          <mxGeometry height="15" width="15" x="724" y="572.75" as="geometry" />
+        </mxCell>
+        <mxCell id="JqmQoldcccz7iGvPwIUa-56" parent="JqmQoldcccz7iGvPwIUa-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#666666,#EDEDED);" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;Suskleistas skirtukas&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="20" y="539" as="geometry" />
         </mxCell>
         <UserObject label="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M480-360 280-560h400L480-360Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" link="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot; viewBox=&quot;0 -960 960 960&quot; width=&quot;24px&quot; fill=&quot;#666666&quot;&gt;&lt;path d=&quot;M480-360 280-560h400L480-360Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" id="JqmQoldcccz7iGvPwIUa-110">
-          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;rotation=270;" vertex="1">
-            <mxGeometry height="8.75" width="8.75" x="2145" y="705" as="geometry" />
+          <mxCell parent="JqmQoldcccz7iGvPwIUa-7" style="text;whiteSpace=wrap;html=1;rotation=270;" vertex="1">
+            <mxGeometry height="8.75" width="8.75" x="-5" y="564" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="SVg7OvQLAb2lxiUBqT6i-7" parent="JqmQoldcccz7iGvPwIUa-7" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" value="Įvykiai" vertex="1">
+          <mxGeometry height="15" width="15" x="724" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="SVg7OvQLAb2lxiUBqT6i-8" parent="JqmQoldcccz7iGvPwIUa-7" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=91.678;fillColor2=#99ddff;strokeColor2=none;direction=north;" value="" vertex="1">
+          <mxGeometry height="560" width="20" x="970" y="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
